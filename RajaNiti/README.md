@@ -37,7 +37,7 @@ Niti aphorisms have been available in English translation for quite a while (pro
 
 The German Indologist [Heinz Bechert](https://en.wikipedia.org/wiki/Heinz_Bechert) (1932 – 2005) [[in German](https://de.wikipedia.org/wiki/Heinz_Bechert)] published a monograph with the original Pali (providing the Pali used below):
 
-> Bechert, Heinz. *Pāli Nīti Texts of Burma: Dhammanīti, Likanīti, Mahārahanīti, Rājanīti; Critical Edition and Study.* No. 171. Pali text society, 1981.
+> Bechert, Heinz. *Pāli Nīti Texts of Burma: Dhammanīti, Lokanīti, Mahārahanīti, Rājanīti; Critical Edition and Study.* No. 171. Pali text society, 1981.
 
 ### Pali-English Interlinear Translation
 
