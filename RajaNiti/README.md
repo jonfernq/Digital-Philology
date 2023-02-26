@@ -10,16 +10,20 @@ in the [Murty Classical Library of India](https://en.wikipedia.org/wiki/Murty_Cl
                     
 In Sanskrit literature 'niti' are a form of subhashita: 
 
-"A subhashita (Sanskrit: सुभाषित, subhāṣita) is a literary genre of Sanskrit epigrammatic poems 
-and their message is an aphorism, maxim, advice, fact, truth, lesson or riddle.[1] 
-Su in Sanskrit means good; bhashita means spoken; which together literally means well spoken or eloquent saying."
-(Source: [Wikipedia](https://en.wikipedia.org/wiki/Subhashita)) 
+> "A subhashita (Sanskrit: सुभाषित, subhāṣita) is a literary genre of Sanskrit epigrammatic poems 
+> and their message is an aphorism, maxim, advice, fact, truth, lesson or riddle.[1] 
+> Su in Sanskrit means good; bhashita means spoken; which together literally means well spoken or eloquent saying."
+> (Source: [Wikipedia](https://en.wikipedia.org/wiki/Subhashita)) 
      
 [Ludwik_Sternbach](https://en.wikipedia.org/wiki/Ludwik_Sternbach) (1909-1981) was the foremost scholar of subhashita, 
 who traced the path of this aphoristic wisdom through Indian and Southeast Asian literary works,
 as well as more far-flung literatures. Some of his works consist of huge cross-reference indices,
 in some respects foreseeing the work of contemporary computational corpus linguistics 
 in drawing connections between different literary works and genres. 
+
+My work traces the inclusion and influence of Raja Niti in the historical chronicle of Burma known as the [U Kala Maha Yazawindawgyi](https://en.wikipedia.org/wiki/Maha_Yazawin) (Burmese: မဟာ ရာဇဝင်တော်ကြီး):
+
+> Fernquest, Jon. 2008. ["The Pali Imaginaire of Pre-modern Burmese Warfare and History.](https://www.academia.edu/19589750/The_Pali_imaginaire_of_pre_modern_Burmese_warfare_and_history_c_1383_1425_) Unpublished working paper. 
 
 ### Southeast Asian Aphoristic Literature
 
