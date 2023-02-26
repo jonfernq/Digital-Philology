@@ -1,0 +1,152 @@
+Rajadhiraj Epic
+├── 01 Early life (1368-82)
+│   └── 01 Birth of Rajadhirat (1368)
+├── 02 Rise to power (1382-83)
+│   ├── 01 Conflicts with his father (1382-83) 
+│   │   ├── 01 Rajadhirat marries sister Talamaysiri (1382)
+│   │   └── 02 Rajadhirat has son Balakyantaw with sister Talamaysiri
+│   ├── 02 Open rebellion (1383-84)
+│   │   ├── 01 Smin Maru plots against Banya Nvai
+│   │   ├── 02 Banya Nvai meets a very peculiar person
+│   │   ├── 03 King Banya U becomes seriously sick 
+│   │   ├── 04 Banya Nvai flees to Dagon 
+│   │   ├── 05 Dagon people support Banya Nvai
+│   │   ├── 06 Bpae Ahai Lawl arrives at Dagon
+│   │   ├── 07 Smin Maru launches offensive against Dagon (long)
+│   │   ├── 08 Banya Nvai attacks Smin Maru
+│   │   ├── 09 Smin Maru runs away 
+│   │   ├── 10 Banya Nvai marches troops to Pegu 
+│   │   └── 11 Minister Dein 
+│   └── 03 Accession (1384)
+│       ├── 01 Banya Nvai becomes King of Hanthawaddy
+│       ├── 02 Banya Nvai obtains title Rajadhirat
+│       ├── 03 Minister Dein pleading
+│       └── 04 Rajadhirat honours faithful servants
+├── 03 Early reign
+│   ├── 01 Consolidation of power at Pegu
+│   └── 02 Rebellious provinces
+├── 04 War with Ava and conquest of the provinces (1385-1391) 
+│   ├── 01 Ava's initial invasions (1385–1387)
+│   │   ├── 01 Smin Luik Pra plots against Rajadhirat
+│   │   ├── 02 Rajadhirat marches to Parn Kyaw
+│   │   ├── 03 Rajadhirat sends warning letter to Burmese king 
+│   │   ├── 04 Rajadhirat goes to rescue Dtun Luin
+│   │   └── 05 Rajadhirat conquers enemy at Bawdhi
+│   ├── 02 Conquest of provinces (1387–1390)
+│   │   ├── 01 Donwun and Martaban
+│   │   │   ├── 01 Rajadhirat subdues the enemies within the country
+│   │   │   ├── 02 Rajadhirat occupies Donwun
+│   │   │   ├── 03 Rajadhirat occupies Muttama and Moulmein
+│   │   │   └── 04 Rajadhirat honors Ma Sarm Lum
+│   │   └── 02 Dala, Myaungmya and Bassein
+│   │       ├── 01 Conspiracy between Ma Nyi Karm Koung and Smin Luik Pra
+│   │       ├── 02 Minkaungkyi passes away 
+│   │       ├── 03 Battle of Myaungmya
+│   │       ├── 04 Lagunein tests Rajadhirat
+│   │       ├── 05 Lagunein victorious at battle of Parn Luin river
+│   │       ├── 06 Minister Dein occupies Dtun Dhue Pacia
+│   │       ├── 07 Rajadhirat kills Baw Ngarm Mun
+│   │       ├── 08 Rajadhirat fights Ma Pet Noai in a duel
+│   │       ├── 09 Rajadhirat occupies Bassein
+│   │       └── 10 Smin Brajja marches to Sandoway 
+│   ├── 03 Second coronation and the fallout (1390)
+│   │   ├── 01 Second Coronation and takes new chief queen
+│   │   ├── 02 Queen Sister Talamidaw suicide
+│   │   ├── 03 Shwe Maw Daw Pagoda gold donation
+│   │   ├── 04 Attacks Myanaung-Kudut
+│   │   ├── 05 Executes son Bawlawkyantaw
+│   │   ├── 06 Rajadhirat tries to reoccupy Myanaung-Kudut
+│   │   └── 07 Rajadhirat prepares to defend Myanaung-Kudut
+│   └── 04 Third Ava invasion (1390–1391)
+│       ├── 08 Ask Ava for Peace (1390-91)
+│       └── 09 Ava catches white elephant in Tharawaddy  (1390-91)
+├── 05 Height of power – Period of Peace
+│   ├── 01 External relations
+│   └── 02 Domestic affairs
+├── 06 Invasion of Ava (1401-03)
+│   ├── 01 Casus belli
+│   │   ├── 01 Ava King Mingyiswasawke dies (1401) 
+│   │   └── 02 Bayin Minkhaung becomes king 
+│   ├── 02 Invasion
+│   │   ├── 01 Rajadhirat Sails Up to Ava
+│   │   ├── 02 Monk Banya Sakyaw Instructs Rajadhirat
+│   │   ├── 03 Rajadhirat retreat from Ava
+│   │   └── 04 Rajadhirat builds Shwekyatkyat pagoda
+│   └── 03 Ava's counterattack
+│       ├── 01 Bayin Minkhaung sets building on fire 
+│       ├── 02 Burmese soldiers attack Mon on way back home
+│       └── 03 Rajadhirat marches to Prome
+├── 07 Temporary truce (1403) 
+│   ├── 01 Treaty of Prome (1403)
+│   │   ├── 01 Burmese king approaches for peace
+│   │   └── 02 Mon Country and Burmese Country
+│   ├── 02 Resurgent Ava (1404-06)
+│   │   ├── 01 Bayin Minkhaung breaks promise
+│   │   ├── 02 Ava King sends letter to Chiang Mai king 
+│   │   └── 03 Mon sentries arrest 12 Burmese messengers
+│   │       └── 01 Bayin Minkhaung attacks Arakan
+│   └── 03 Preparation for war (1407) 
+├── 08 Renewal of war (1408-18)
+│   ├── 01 Pegu's invasion of Arakan (1408)
+│   │   └── 01 Rajadhirat sends two commanders to Arakan
+│   ├── 02 Minkhaung's reprisals (1408–1410)
+│   │   ├── 01 Bayin Minkhaung attacks Rajadhirat
+│   │   ├── 02 Burmese set up fortification close to Mon
+│   │   ├── 03 Minister Dein’s military standpoint 
+│   │   ├── 04 Burmese troops face food shortage 
+│   │   ├── 05 King Minkhaung appeals for peace 
+│   │   ├── 06 Oath-swearing ceremony between Burmese and Mon
+│   │   ├── 07 Lagunein goes to kill Bayin Minkhaung
+│   │   ├── 08 Rajadhirat returns Minkhaung’s belognings
+│   │   ├── 09 Bayin Minkhaung withdraws troops
+│   │   ├── 10 Lagunein attacks enemy single-handedly
+│   │   ├── 11 Rajadhirat gets a Burmese Queen
+│   │   └── 12 Bayin Minkhaung  launches second offensive against Mons
+│   ├── 03 Minye Kyawswa's invasions (1410–1415)
+│   │   ├── 01 Irrawaddy delta and Arakan (1410–1411)
+│   │   │   ├── 01 Minyekyawswa attacks Mon country
+│   │   │   ├── 02 Minyekyawswa attacks Arakan
+│   │   │   ├── 03 Mon troops march to attack Arakan
+│   │   │   └── 04 Mon occupy Arakan
+│   │   ├── 02 Alliance with Hsenwi and retaking of Arakan (1411–1412)
+│   │   │   ├── 01 Hsenwi sawbwa attacks Ava
+│   │   │   └── 02 Mnyekyawswa marches to Shan States
+│   │   ├── 03 Siege of Prome and defense of Lower Burma (1412–1413)
+│   │   │   ├── 01 Pegu forces march to Prome
+│   │   │   ├── 02 Bayinnaung Minkhaung marches to Prome
+│   │   │   ├── 03 U Pa Kaung and Minyekyawswa
+│   │   │   ├── 04 Rajadhirat goes to rescue Banya Bassein
+│   │   │   ├── 05 Smin Brajja passes away 
+│   │   │   ├── 06 Rajadhirat advances to Prome
+│   │   │   ├── 07 Smin Lagun Ein passes away
+│   │   │   ├── 08 Banya Dharem challenges Burmese 
+│   │   │   ├── 09 Rajadhirat goes to stay  at Muttama
+│   │   │   ├── 10 Ma Klom, the intelligent person 
+│   │   │   ├── 11 Banya Dharem is arrested by the Burmese 
+│   │   │   ├── 12 Ava Minkyi tricks Burmese fleet
+│   │   │   ├── 13 Minyekyawswa wages war against Mon 
+│   │   │   └── 14 Ahya Mondaya pretends to desert Rajadhirat
+│   │   └── 04 Minye Kyawswa's last campaign (1414–1415)
+│   │       ├── 01 Rajadhirat goes to assist Banya Khen
+│   │       ├── 02 Rajadhirat challenges Minyekyawswa
+│   │       ├── 03 Rajadhirat deploys three forces 
+│   │       └── 04 Minyekyawswa arrrested and dies
+│   └── 04 Last campaigns (1416–1418)
+│       ├── 01 Bayin Minkhaung attacks Mon Country
+│       ├── 02 Ava Minkyi and Bayin Minkhaung
+│       ├── 03 Bayinnaung Minkhaung flees to Dagon city
+│       ├── 04 Lakhaik Ma San
+│       ├── 05 Rajadhirat assists Ava Minkyi
+│       ├── 06 Duel between Banya Dharem and Gamani
+│       ├── 07 Banya Dharem becomes Ava Crown Prince
+│       └── 08 Banya Dharem flees to Pegu
+└── 09 Death and succession (1421) 
+    ├── 01 Rajadhirat goes elephant hunting
+    ├── 02 Banya Ken becomes King of Pegu
+    ├── 03 Bayin Minkhaung  extremely sad 
+    ├── 04 Smin Maha Dajja passes away 
+    ├── 05 Bayin Minkhaung passes away
+    ├── 06 Banya Dharem passes away 
+    ├── 07 Rajadhirat passes away
+    └── 08 Banya Dharem’s son becomes King of Ava
+
