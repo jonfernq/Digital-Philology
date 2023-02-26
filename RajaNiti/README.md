@@ -14,6 +14,24 @@ who traced the path of this aphoristic wisdom through Indian and Southeast Asian
 as well as more far-flung literatures. Some of his works consist of huge cross-reference indices,
 in some respects foreseeing the work of contemporary computational corpus linguistics 
 in drawing connections between different literary works and genres. 
+
+# Southeast Asian Aphoristic Literature
+
+In Southeast Asian Theravadan Buddhist countries aphorisms are categorized into three branches:
+Loka Niti, Dhamma Niti, and Raja Niti. They have been available in English translation for quite a while: 
+
+Gray James. 1886. Ancient Proverbs and Maxims from Burmese Sources; or the Nı̂ti Literature of Burma. London: Trübner.
+(See Archive.org [original](https://archive.org/details/dli.granth.110810) & [later](https://archive.org/details/ancientproverbs00graygoog))
+
+The German Indologist [Heinz Bechert](https://en.wikipedia.org/wiki/Heinz_Bechert)(1932 – 2005) [[German](https://de.wikipedia.org/wiki/Heinz_Bechert)] published a monograph with the original Pali:
+
+Bechert, Heinz. Pāli Nīti Texts of Burma: Dhammanīti, Likanīti, Mahārahanīti, Rājanīti; Critical Edition and Study. No. 171. Pali text society, 1981.
+
+
+
+
+
+
                                                          .                      
   
   
