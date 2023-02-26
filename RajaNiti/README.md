@@ -143,6 +143,95 @@ A collation of Raja Niti in the two texts cited above (picking apart and analysi
 
 25-26. A king, a minister who attends upon him, a country inhabited by good people, a fortress difficult to be taken, punishment in keeping with crime, a granary always filled with corn, a friend devoted to the king in danger—these are seven elements spoken of in connection with royalty by wise men versed in the Nth.
 
+![rajaniti27_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0003](https://user-images.githubusercontent.com/68504324/221438840-febedab5-d9ce-4293-8952-89768813e179.jpg)
+
+27. These are spoken of as seven elements in connection with a country : a king, a minister, a kingdom, a fortress, a granary, an army, and an ally.
+
+![rajaniti28_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0003](https://user-images.githubusercontent.com/68504324/221438856-6f45ff90-aefa-4786-82de-a617b4e9d61c.jpg)
+
+28. Among these, even if one element is deficient, the king's good state declines; another, not wishing to remain on terms of inequality with him, strives hard to gain an ascendancy.
+
+![rajaniti29_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0003](https://user-images.githubusercontent.com/68504324/221438864-8541a382-3677-4f6f-a072-c9e37605a01b.jpg)
+
+29. A king first of all wishes for himself association with the virtuous; he next devotes himself to acquire various qualifications, and then looks after his remaining duty.
+
+![rajaniti30_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0003](https://user-images.githubusercontent.com/68504324/221438871-e75d7da7-4031-41f1-966f-a687876e9935.jpg)
+
+30. He who is exalted among men, is wise, intelligent, avoids low conversation, is shrewd, patient, and upright, he is law-abiding and not envious of another's prosperity.
+
+![rajaniti31_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0003](https://user-images.githubusercontent.com/68504324/221438889-5d36f7c6-54a5-4e83-a597-2391aa61ff05.jpg)
+
+31. He acts well, is provided with friends and allies is full of ability, knows how to bring about the rain of other kings, is industrious, possessed of fortitude, and is cognisant of loss and gain.
+
+![rajaniti32_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0003](https://user-images.githubusercontent.com/68504324/221438901-d4c73da6-6713-44c2-befb-060632ee06c4.jpg)
+
+32. He is grateful, brave, depends on the intelligent, shuns harmful practices, is considerate, not fault-finding, and is prompt in the carrying out of a promise.
+
+![rajaniti33_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0003](https://user-images.githubusercontent.com/68504324/221438907-a0e74382-4895-43ad-90bd-f435b495c967.jpg)
+
+33. He knows how to cause the ruin of an enemy, has a mastery over his temper and over his senses, is neither covetous nor lethargic, is liberal, and in the habit of giving admonition.
+
+![rajaniti34_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0003](https://user-images.githubusercontent.com/68504324/221438934-4a46a9d3-1af2-4443-8d89-6750eb44f0bb.jpg)
+
+34. He is free from bewilderment, does not take what does not belong to him, he is respectful to the righteous, knows the proper time and place, and is devoted to the seven duties.
+
+![rajaniti35_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0003](https://user-images.githubusercontent.com/68504324/221438949-6efbeb6d-6339-49e3-b883-c9f15e06ce87.jpg)
+
+35. He understands the signification of terms, is skilful in the use of stratagems and in the organising of campaigns; he delights in charity and the observance of the precepts, and speaks cautiously.
+
+![rajaniti36_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0003](https://user-images.githubusercontent.com/68504324/221438964-6e5bf50c-5210-49e6-95aa-b536d63f4951.jpg)
+
+36. A king who is replete with the qualities above men­tioned, he, by conquering the whole earth, is honoured for his well-deserved greatness.
+
+![rajaniti37_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0003](https://user-images.githubusercontent.com/68504324/221438976-3c2c2bd4-3490-46e1-86b6-380d849194bc.jpg)
+
+37. The king who. is retentive of knowledge, who is wise, intelligent, unenvious, and waits upon his preceptor—he attains a widespread reputation.
+
+![rajaniti38_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0003](https://user-images.githubusercontent.com/68504324/221438991-70e6f3e9-6594-4da2-bb67-da7faaf45003.jpg)
+
+38. The king who is possessed of the seven qualities, is acquainted with the Niti," and is wise and discriminating, he has the power to conquer the whole earth.
+
+![rajaniti39_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0003](https://user-images.githubusercontent.com/68504324/221439002-5094bfde-854c-48c1-a5ca-53c8c4fae570.jpg)
+
+39. Indra, the sun, the god of wind, Yama, the ocean, the moon, the earth, and the god of rain—these eight should be borne in mind by the king.
+
+![rajaniti40_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0003](https://user-images.githubusercontent.com/68504324/221439014-5585ae55-04d1-4235-89e6-1849555a7b7c.jpg)
+
+40. As Sakka, the king of devas, exalts or degrades crea­tures according as they deserve exaltation or degradation, like him should a king also act.
+
+![rajaniti41_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0003](https://user-images.githubusercontent.com/68504324/221439021-a3700895-e355-4e73-b4ad-0a4437e8a782.jpg)
+
+41. As the sun (gradually) dries up the water during eight months, so should the king, who is like the sun, exact taxes in his kingdom.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
