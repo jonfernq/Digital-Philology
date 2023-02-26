@@ -4,7 +4,7 @@ Raja Niti are lists of aphorisms on kingship derived from ancient Indian Sanskri
   
 [Nitisastra](https://en.wikipedia.org/wiki/Ethics_in_religion#Hindu_ethics) (Sanskrit: नीतिशास्त्र), the science of niti, can be characterized as the science of ethics.  
 
-The foremost work of Nitisastra is the [Kāmandakīya Nītisāra](https://en.wikipedia.org/wiki/Nitisara) or Nitisara of Kamandaki,
+The foremost work of Nitisastra is the [*Kāmandakīya Nītisāra*](https://en.wikipedia.org/wiki/Nitisara) or Nitisara of Kamandaki,
 available most recently in the masterful English interpretive translation of University of Hawaii Sanskrit professor Jesse Knutson,
 in the [Murty Classical Library of India](https://en.wikipedia.org/wiki/Murty_Classical_Library_of_India).
                     
