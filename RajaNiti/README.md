@@ -91,6 +91,57 @@ A collation of Raja Niti in the two texts cited above (picking apart and analysi
 
 12. He should be appointed gatekeeper who knows old from new people, who is strong and of good appearance, honest, capable of bearing fatigue, and shrewd.
 
+![rajaniti13_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0002](https://user-images.githubusercontent.com/68504324/221437213-beb68a2b-74cc-4a66-a0b7-96565827a3ed.jpg)
+
+
+
+![rajaniti14_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0002](https://user-images.githubusercontent.com/68504324/221437218-868a0282-db91-4abe-8099-13b1416d1ced.jpg)
+
+
+
+![rajaniti15](https://user-images.githubusercontent.com/68504324/221437235-f7b1e274-d88e-4b0a-aa70-1cc0eb0b1797.jpg)
+
+
+
+![rajaniti16_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0002](https://user-images.githubusercontent.com/68504324/221437240-94dcc545-bc82-4ee6-834f-adf7501267c0.jpg)
+
+
+![rajaniti17_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0002](https://user-images.githubusercontent.com/68504324/221437244-605839ef-684a-4bc2-a6d2-3509378dc6dd.jpg)
+
+
+![rajaniti18_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0002](https://user-images.githubusercontent.com/68504324/221437249-9329fb8d-de98-49a2-ab9a-b01005f20492.jpg)
+
+
+
+![rajaniti19_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0002](https://user-images.githubusercontent.com/68504324/221437254-101716b0-f401-48fd-b583-e96dbcb3b351.jpg)
+
+
+![rajaniti20_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0002](https://user-images.githubusercontent.com/68504324/221437267-3079212a-b51e-495e-a6ac-69370a901dce.jpg)
+
+20. He should be a king's domestic chaplain who is acquainted with the Vedas and its subdivisions, who is practised in fire-offerings and the use of spells, and always prays for the long life of the king.
+
+![rajaniti21_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0002](https://user-images.githubusercontent.com/68504324/221437279-67749fc7-72e3-4b40-9b74-ee010a7ad778.jpg)
+
+21. He who is modest, righteous, versed in languages, who understands physiognomy, is conversant with different arts and sciences, brave, endowed with race virtues, and fearful of the king—such a one should be appointed to serve in the palace.
+
+![rajaniti22_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0002](https://user-images.githubusercontent.com/68504324/221437287-d3b09f8c-b5c7-4984-a28b-cf146ab1ec3b.jpg)
+
+22. The attendant of whatever king is wise, loves his avo­cations, is brave, worthy to be consulted—he brings about the entire welfare of the king.
+
+![rajaniti23_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0002](https://user-images.githubusercontent.com/68504324/221437291-c1e9082e-a1d9-47ce-9f65-d6c055621d2e.jpg)
+
+23. He who has employment, although he have much power and reputation, should not deeeive the king; he should be ablel to disclose what is good or what is bad. It is a difficult matter to point out what is for the king's advantage or agreeable to his mind."
+
+![rajaniti24_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0002](https://user-images.githubusercontent.com/68504324/221437304-f47aceb1-32d0-41d5-92c2-73c8c1c030ec.jpg)
+
+24. He is no man who overcomes the vile ; he is not called a man who is assiduous in a trifle ; he who achieves some­thing great is a man. Who scandalises a king, although he conquers, is not a conqueror ; he is not noble who suppresses the conquered.
+
+![rajaniti25_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0002](https://user-images.githubusercontent.com/68504324/221437315-1d4d2471-d75f-4894-b57b-2a4b983948c9.jpg)
+
+![rajaniti26_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0002](https://user-images.githubusercontent.com/68504324/221437321-3fe3989c-dc63-492a-afcf-c9ba8e80062f.jpg)
+
+25-26. A king, a minister who attends upon him, a country inhabited by good people, a fortress difficult to be taken, punishment in keeping with crime, a granary always filled with corn, a friend devoted to the king in danger—these are seven elements spoken of in connection with royalty by wise men versed in the Nth.
+
 
 
 
