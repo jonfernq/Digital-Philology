@@ -28,7 +28,9 @@ My work traces the inclusion and influence of Raja Niti in the historical chroni
 ### Southeast Asian Aphoristic Literature
 
 The Niti aphoristic literature is common in Southeast Asian Theravadan Buddhist countries and is categorized into three branches:
-Loka Niti, Dhamma Niti, and Raja Niti. They have been available in English translation for quite a while (providing the English translation used below): 
+Loka Niti, Dhamma Niti, and Raja Niti. It is worth noting that the Thai word 'niti' (นิติ) means 'law', however 'rajaniti' (ราชานิติ) is a genre of Pali-derived literature, as discussed in [this Thai article](http://www.library.polsci.chula.ac.th/dl/d29dc078c6d2c092d603ad2b2a3ae59d). The [โคลงโลกนิติ](https://th.wikipedia.org/wiki/%E0%B9%82%E0%B8%84%E0%B8%A5%E0%B8%87%E0%B9%82%E0%B8%A5%E0%B8%81%E0%B8%99%E0%B8%B4%E0%B8%95%E0%B8%B4) or 'Lokaniti poem' (1831) is a well-known Thai poem based on the corresponding aphoristic literature. 
+
+Niti aphorisms have been available in English translation for quite a while (providing the English translation used below): 
 
 > Gray James. 1886. Ancient Proverbs and Maxims from Burmese Sources; or the Nı̂ti Literature of Burma. London: Trübner.
 > (See Archive.org [original](https://archive.org/details/dli.granth.110810) & [later](https://archive.org/details/ancientproverbs00graygoog))
