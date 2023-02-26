@@ -2,6 +2,10 @@
 
 Computational methods applied to the critical study of historical and literary texts.
 
+### Historical Timelines
+
+- [Rajadhirat Periodization Tree](https://github.com/jonfernq/Digital-Philology/tree/main/HistoricalTimelines): A historical timeline can be stored in a tree-like database.
+
 ### Tracking Wikipedia Coverage of History
 
 In many countries nowadays, people are more likely to get the history of their country from Wikipedia, rather than the expensive published scholarly monographs that provide the most accurate information. 
