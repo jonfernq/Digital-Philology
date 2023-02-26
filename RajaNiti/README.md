@@ -93,28 +93,29 @@ A collation of Raja Niti in the two texts cited above (picking apart and analysi
 
 ![rajaniti13_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0002](https://user-images.githubusercontent.com/68504324/221437213-beb68a2b-74cc-4a66-a0b7-96565827a3ed.jpg)
 
-
+13. He should be appointed ambassador who is wise, understands the conversation of people, is brave, familiar with the disposition of others, and of ready speech.
 
 ![rajaniti14_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0002](https://user-images.githubusercontent.com/68504324/221437218-868a0282-db91-4abe-8099-13b1416d1ced.jpg)
 
-
+14. He should be appointed writer who is clever in reading the thoughts of others, writes rapidly, whose penmanship is good, who is intelligent. of good address, and shrewd.
 
 ![rajaniti15](https://user-images.githubusercontent.com/68504324/221437235-f7b1e274-d88e-4b0a-aa70-1cc0eb0b1797.jpg)
 
-
-
 ![rajaniti16_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0002](https://user-images.githubusercontent.com/68504324/221437240-94dcc545-bc82-4ee6-834f-adf7501267c0.jpg)
 
+15-16. He should be appointed commander-in-chief who is experienced in the subjugation of others, who knows to choose a victory-giving battlefield, who does not abandon his forces in misfortune, who remains the same in adversity or pros­perity, who is strong, of irreproachable character, skilled in the use of weapons, who can bear the fatigues of riding, and is replete with diligence and bravery.
 
 ![rajaniti17_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0002](https://user-images.githubusercontent.com/68504324/221437244-605839ef-684a-4bc2-a6d2-3509378dc6dd.jpg)
 
+17. He is praised as a good cook who is the descendant of cooks, who is clever in cooking, who is acquainted with books on cookery, who can serve up dainties, who is devoted to his profession, and does not give away articles of food.
 
 ![rajaniti18_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0002](https://user-images.githubusercontent.com/68504324/221437249-9329fb8d-de98-49a2-ab9a-b01005f20492.jpg)
 
-
+18. He is praised as a doctor who is skilled in the treatise on the principles of life and its dissolution, who is clever in his profession, who is acquainted with works 8 on medicine, who is of pleasing countenance and of high morals.
 
 ![rajaniti19_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0002](https://user-images.githubusercontent.com/68504324/221437254-101716b0-f401-48fd-b583-e96dbcb3b351.jpg)
 
+19. He should serve the king as an attendant who under­stands the king's wishes, is of good morals, clever, observant of the law, well read, free from covetousness, and not remiss in his duties.
 
 ![rajaniti20_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0002](https://user-images.githubusercontent.com/68504324/221437267-3079212a-b51e-495e-a6ac-69370a901dce.jpg)
 
