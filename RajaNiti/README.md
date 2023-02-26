@@ -215,6 +215,8 @@ A collation of Raja Niti in the two texts cited above (picking apart and analysi
 
 44. As small streams fill the ocean without the ocean making a demand upon them, so should the king not long for all a wealth : this not making a demand is the character of the ocean.
 
+![rajaniti45_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0004](https://user-images.githubusercontent.com/68504324/221440295-3e33050c-9eb3-4b6a-9710-dd2dcd9bfefc.jpg)
+
 45. As men who see the moon when it is full are. delighted, so should all people, seeing the face of the king, feel satisfied: a ruler who is like the moon should show himself in the same way.
 
 ![rajaniti46_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0004](https://user-images.githubusercontent.com/68504324/221439730-86d845ab-ade0-4ae1-bbb6-4f73390e326e.jpg)
@@ -232,6 +234,8 @@ A collation of Raja Niti in the two texts cited above (picking apart and analysi
 ![rajaniti49_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0004](https://user-images.githubusercontent.com/68504324/221439769-1c1c4d8a-bc1e-4cc9-843b-ac7faf785774.jpg)
 
 49. Whatever act a king wishes to perform, whether great or small, it should be done with all his vigour: then that will be one act of the lion's.
+
+![rajaniti50](https://user-images.githubusercontent.com/68504324/221440307-a9bdfbfa-25ad-40b4-a513-899cf3444475.jpg)
 
 50. A wise king is like a crane, keeping a guard on his senses : he accomplishes all his work in the proper time and place.
 
