@@ -203,21 +203,62 @@ A collation of Raja Niti in the two texts cited above (picking apart and analysi
 
 41. As the sun (gradually) dries up the water during eight months, so should the king, who is like the sun, exact taxes in his kingdom.
 
+![rajaniti42_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0004](https://user-images.githubusercontent.com/68504324/221439694-ea4725b6-968f-49b7-a905-a1bea57d8d1f.jpg)
+
+42. As the air (unobserved) reaches all creatures, so should the king know all about his people by means of spies: this secrecy is the character of the wind.
+
+![rajaniti43_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0004](https://user-images.githubusercontent.com/68504324/221439709-ca95b0ad-ed3d-41c8-bbdf-d05e9fd6c908.jpg)
+
+43. As the king of death, at the right moment brings about the death of one whom he loves or one whom he hates, even so should a king inflict punishment upon one who deserves punishment: this infliction of punishment is the character of Yama.
+
+![rajaniti44_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0004](https://user-images.githubusercontent.com/68504324/221439717-6c022fd2-6b4d-450f-b839-74f4aa3ff694.jpg)
+
+44. As small streams fill the ocean without the ocean making a demand upon them, so should the king not long for all a wealth : this not making a demand is the character of the ocean.
+
+45. As men who see the moon when it is full are. delighted, so should all people, seeing the face of the king, feel satisfied: a ruler who is like the moon should show himself in the same way.
+
+![rajaniti46_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0004](https://user-images.githubusercontent.com/68504324/221439730-86d845ab-ade0-4ae1-bbb6-4f73390e326e.jpg)
+
+46. Just as the earth bears upon it all creatures equally, thus should a king take in his charge all townsfolk and country people.
+
+![rajaniti47_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0004](https://user-images.githubusercontent.com/68504324/221439750-6bd12543-6681-4e02-82ca-7ccbc4aab3f3.jpg)
+
+47. As the rain falls in showers during four months, a ruler should give happiness to the soldiery by paying them their wages.
+
+![rajaniti48_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0004](https://user-images.githubusercontent.com/68504324/221439757-380efbf3-4f0f-4a73-925c-1308334e0fae.jpg)
+
+48. A king should act the one act of the lion, one act of the crane, four acts of the fowl, five of the crow, six of the dog, and three of the ass.
+
+![rajaniti49_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0004](https://user-images.githubusercontent.com/68504324/221439769-1c1c4d8a-bc1e-4cc9-843b-ac7faf785774.jpg)
+
+49. Whatever act a king wishes to perform, whether great or small, it should be done with all his vigour: then that will be one act of the lion's.
+
+50. A wise king is like a crane, keeping a guard on his senses : he accomplishes all his work in the proper time and place.
+
+![rajaniti51_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0004](https://user-images.githubusercontent.com/68504324/221439772-94819d76-b847-4e02-a81e-43bd7ba8d947.jpg)
+
+51. Cocks rise first, are very pugnacious, divide their food with their companions, and have the upper hand over the hens: these are the four acts of a cock.
+
+![rajaniti52_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0004](https://user-images.githubusercontent.com/68504324/221439781-4b3d350e-b653-4c8c-b71d-627391260e5d.jpg)
+
+52. A crow satisfies his passions in secret, is very cautious, eats his food in company with his relatives, is observant and industrious : these are the five acts of a crow.
+
+![rajaniti53_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0004](https://user-images.githubusercontent.com/68504324/221439793-80d83944-7ad0-4b20-9d34-01606d5a7fa8.jpg)
+
+53. A dog is not idle, is easily content, sleeps easily and rises easily, is a staunch attendant and full of bravery: these six are the attributes of a dog.
 
 
+![rajaniti54_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0004](https://user-images.githubusercontent.com/68504324/221439800-5401fef5-5f7a-4ec7-b5f5-4739d9ba7575.jpg)
 
+54. An ass, although fatigued, carries his burden, he minds not heat nor cold, and is ever content : these are the three acts of an ass.
 
+![rajaniti55_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0004](https://user-images.githubusercontent.com/68504324/221439805-37c9e4dd-285f-4d87-8a87-e0e944d6325f.jpg)
 
+55. The wise king who acts in this world in keeping with these twenty virtues overcomes all his enemies and derives great glory.
 
+![rajaniti56_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0004](https://user-images.githubusercontent.com/68504324/221439812-8e9d9192-e33f-43ab-ba45-6ca4cd61e961.jpg)
 
-
-
-
-
-
-
-
-
+56. Diseases arise by too much drinking, by gratifying the passions inordinately, by constipation and by constriction, by sleeping in the day, and by keeping up at night: from these six diseases arise.
 
 
 
