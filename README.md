@@ -2,6 +2,10 @@
 
 Computational methods applied to the critical study of historical and literary texts.
 
+### Raja Niti
+
+- [Raja Niti](https://github.com/jonfernq/Digital-Philology/tree/main/RajaNiti): Raja Niti are lists of aphorisms on kingship derived from ancient Indian Sanskrit and Pali literature widespread and influential in the literatures of Theravadan Buddhist countries such as Thailand and Burma. 
+
 ### Historical Timelines
 
 - [Rajadhirat Periodization Tree](https://github.com/jonfernq/Digital-Philology/tree/main/HistoricalTimelines): A historical timeline can be stored in a tree-like database.
