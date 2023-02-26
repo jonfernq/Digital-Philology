@@ -41,6 +41,8 @@ The German Indologist [Heinz Bechert](https://en.wikipedia.org/wiki/Heinz_Becher
 
 ### Pali-English Interlinear Translation
 
+A collation of Raja Niti in the two texts cited above (picking apart and analysis of words and grammar remains for the future). 
+
 ![rajaniti1_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0001](https://user-images.githubusercontent.com/68504324/221433724-6aa27708-39d6-4c8d-b810-737fc3b866a5.jpg)
 
 1. Here is recited the Rajaniti, for the accomplishment of a king's present prosperity, and the acquirement of experience for the subjugation of the kingdoms of others.
