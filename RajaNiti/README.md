@@ -11,11 +11,11 @@ in the [Murty Classical Library of India](https://en.wikipedia.org/wiki/Murty_Cl
 In Sanskrit literature 'niti' are a form of subhashita: 
 
 > "A subhashita (Sanskrit: सुभाषित, subhāṣita) is a literary genre of Sanskrit epigrammatic poems 
-> and their message is an aphorism, maxim, advice, fact, truth, lesson or riddle.[1] 
+> and their message is an aphorism, maxim, advice, fact, truth, lesson or riddle. 
 > Su in Sanskrit means good; bhashita means spoken; which together literally means well spoken or eloquent saying."
 > (Source: [Wikipedia](https://en.wikipedia.org/wiki/Subhashita)) 
      
-[Ludwik_Sternbach](https://en.wikipedia.org/wiki/Ludwik_Sternbach) (1909-1981) was the foremost scholar of subhashita, 
+[Ludwik_Sternbach](https://en.wikipedia.org/wiki/Ludwik_Sternbach) (1909-1981) was the foremost scholar of *subhashita*, 
 who traced the path of this aphoristic wisdom through Indian and Southeast Asian literary works,
 as well as more far-flung literatures. Some of his works consist of huge cross-reference indices,
 in some respects foreseeing the work of contemporary computational corpus linguistics 
@@ -41,7 +41,7 @@ The German Indologist [Heinz Bechert](https://en.wikipedia.org/wiki/Heinz_Becher
 
 ### Pali-English Interlinear Translation
 
-A collation of Raja Niti in the two texts cited above (picking apart and analysis of words and grammar remains for the future). 
+A collation of Raja Niti in the two texts cited above follows (picking apart and analysis of words and grammar remains for the future). 
 
 ![rajaniti1_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0001](https://user-images.githubusercontent.com/68504324/221433724-6aa27708-39d6-4c8d-b810-737fc3b866a5.jpg)
 
