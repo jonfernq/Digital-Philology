@@ -532,6 +532,50 @@ A collation of Raja Niti in the two texts cited above follows (picking apart and
 
 125. As to one desirous of appearing pleasant and beautiful the eye is a source of excellence, so should a king by watchfulness increase his property, income, carefulness, and prosperity.
 
+![rajaniti126_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0010](https://user-images.githubusercontent.com/68504324/221467197-a40f5c33-b932-4aec-8978-c5ac4ad4dc85.jpg)
+
+126. A king keeps watch over his country against thieves, favourites, and people of low quality ; he should then keep a guard over the revenues of the country : a king should  keep a careful watch over these four.
+
+![rajaniti127_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0010](https://user-images.githubusercontent.com/68504324/221467211-4679f371-bbd0-46b4-affc-b2bffaa20abb.jpg)
+
+127. A king in his domain should not exact a tax in excess of what is customary; if he does, there is the dissatisfaction of the people and the diminution of the treasure.
+
+![rajaniti128_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0010](https://user-images.githubusercontent.com/68504324/221467239-a3671e42-24bf-483f-9615-2412391c63f6.jpg)
+
+128. To a king there is a good result if his army is marched to battle in autumn or during the rains: certain wise men have said that there cannot always be victory nor  always defeat.
+
+![rajaniti129_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0010](https://user-images.githubusercontent.com/68504324/221467278-816ebf99-00cc-407c-b494-eb038417c1dd.jpg)
+
+129. If there be the destruction of an enemy, it is productive of merit : this destruction of the enemy is a source of general happiness to the king.
+
+![rajaniti130_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0010](https://user-images.githubusercontent.com/68504324/221467306-2065566a-7afd-4339-889f-c4bd7e6c789e.jpg)
+
+130. If the king's destiny be bad, he should send to the wars a minister with good fate for the destruction of the enemy; if good, he should not abandon his own prosperity: when an elephant is discovered, what need searching for its footmarks ?
+
+![rajaniti131_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0010](https://user-images.githubusercontent.com/68504324/221467320-4246a87b-03b9-41e2-8f40-4959c4903b15.jpg)
+
+131. Men of distinction, although they do not try, obtain their wishes promptly when the time arrives, just as boa-constrictors without effort come upon the place where food is to be obtained.
+
+![rajaniti132_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0010](https://user-images.githubusercontent.com/68504324/221467331-8e489226-343d-4de7-8f53-d7e593a370b9.jpg)
+
+132. Many people, although they strive much, are not successful in obtaining unripe fruits placed in an inaccessible place; when the fruit falls of itself and is got without trouble, it is full of juice and is eaten with pleasure.
+
+![rajaniti133_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0010](https://user-images.githubusercontent.com/68504324/221467347-1751f6a0-de18-487f-85fb-32a6df10c25f.jpg)
+
+133. Hearing the admonition of the wise, paying attention to good words, receiving education, retaining knowledge, looking on both sides, comprehending the meaning, understanding its purport—these are seven characteristics of the wise.
+
+![rajaniti134_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0010](https://user-images.githubusercontent.com/68504324/221467377-c10d4e65-09eb-406e-945f-d3d31a19d6ad.jpg)
+
+134. A rampant elephant, powerful and possessed of noble qualities, although alone, destroys a whole army : a king, victorious among elephants, is like • the driver's hook; therefore is he known to be stronger than an elephant.
+
+
+
+
+
+
+
+
+
 
 
 
