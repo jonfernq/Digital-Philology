@@ -276,53 +276,51 @@ A collation of Raja Niti in the two texts cited above follows (picking apart and
 
 ![rajaniti59_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0005](https://user-images.githubusercontent.com/68504324/221449075-5f976873-20ed-40d6-beb8-fe15075e538e.jpg)
 
-59. 
+59. Wishing for long life, one should eat facing the east; wishing for wealth, he should face the south; if he desire prosperity, he should eat facing the west; one should not eat facing the north.
 
 ![rajaniti60_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0005](https://user-images.githubusercontent.com/68504324/221449087-25aabe70-8c72-476e-88a0-1da5b73148d0.jpg)
 
-60. 
+60. He who sleeps after eating gets his body bloated; he who stands grows strong; he who walks up and down prolongs life; and as for a person who runs, death follows him.
 
 ![rajaniti61_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0005](https://user-images.githubusercontent.com/68504324/221449097-eda16d93-98d4-4a9c-a1b9-21bff8a9bcc3.jpg)
 
-61. 
+61. He who sleeps with his head to the east becomes wise; who sleeps with his head to the south prolongs his life; if one sleeps with his head towards the west, his mind grows perturbed; who sleeps with his head to the north dies soon.
 
 ![rajaniti62_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0005](https://user-images.githubusercontent.com/68504324/221449115-ec1f2d58-4d47-4adf-bdc5-4ba95b637c54.jpg)
 
-
-![rajaniti63_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0005](https://user-images.githubusercontent.com/68504324/221449126-318a492d-4d11-4397-baa0-c81377673563.jpg)
-
-                                  .                      
-  
+![rajaniti63_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0005](https://user-images.githubusercontent.com/68504324/221449126-318a492d-4d11-4397-baa0-c81377673563.jpg)                              .                      
   
   ![rajaniti64_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0005](https://user-images.githubusercontent.com/68504324/221449144-a614b650-50a0-4294-8aac-f4248f19378f.jpg)
 
-  
-  
+62-64. Cutting the grass always, writing on the ground with  the nail, not washing the feet clean, not washing the teeth, the soiling of clothes, allowing the hair to become dry, sleeping at twilight, sleeping without clothes, eating to excess, striking the limbs and back: to those who do all this, neither the god of wealth nor Pissahanu is able to bring greatness.   
   
   ![rajaniti65_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0005](https://user-images.githubusercontent.com/68504324/221449153-66b90b36-2cc7-420d-8388-d7b5560b06eb.jpg)
 
+65. Placing flowers on the head, washing the feet clean,  espousing an excellent wife, eating in moderation, having intercourse while robed, avoiding intercourse on the five special days: the king who is resolute in these for a length of time obtains glory.
 
 ![rajaniti66_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0005](https://user-images.githubusercontent.com/68504324/221449166-50c92f69-ae93-42bf-b55a-09bed6db191d.jpg)
 
-  
+66. Harsh speech, punishment, truculenne, the destruction of the property of others, over-indulgence in drinking, in intercourse, and gambling: these bring ruin to a king.  
   
   ![rajaniti67_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0005](https://user-images.githubusercontent.com/68504324/221449178-2defb872-4c60-4139-8d68-47468276aa26.jpg)
 
+67. It is indeed true that many faults accompany those kings who attach themselves to these sources of ruin; they should therefore avoid them.
   
   ![rajaniti68_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0005](https://user-images.githubusercontent.com/68504324/221449185-0e3124b6-8544-48ba-bff0-64dfb3898026.jpg)
 
-  
+68. The wise have said that the drinking of intoxicating liquors ranks highest amongst all those things that cause destruction : the drinking of spirituous liquor tends to the  loss of property, wisdom, strength, prosperity, reputation,  and dignity.  
   
   ![rajaniti69_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0005](https://user-images.githubusercontent.com/68504324/221449189-c0ce1c97-bf37-4203-b419-9fd5fa6ce721.jpg)
-
   
+69. By indulgence in spirits great wisdom is destroyed; one cannot understand the truth nor know the vitality of another; he cannot discriminate between harmful and unharmful food.  
+
 ![rajaniti70_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0005](https://user-images.githubusercontent.com/68504324/221449198-7eef4926-a67a-486b-afbc-7a526eee82a7.jpg)
 
-
+70. A drunkard looks upon his mother as his wife, and his wife as his mother, his house as a pit or the like, and a small thing as a thing of great consequence.
 
 ![rajaniti71_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0005](https://user-images.githubusercontent.com/68504324/221449222-6f14272c-3fe4-409f-9d84-83a72603a076.jpg)
 
-
+71. He looks upon a small piece of water like the ocean, and the ocean as if dry land ; he considers the king as his  friend.
 
 
 
