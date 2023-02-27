@@ -415,6 +415,67 @@ A collation of Raja Niti in the two texts cited above follows (picking apart and
 
 94-95. A gardener should carefully plant a twig that has been thrown away ; he should break off the flowers in bloom, allow the small plants to develop, cause very erect ones  to bend, those too much inclined to be made more erect; he should remove the bark from trees that are too green; a tree being small, he should plant thorny shrubs on the outside ; he should cherish lovingly one that is in a thriving condition : a king, the cherisher of a kingdom, should take delight in his realm, just as a good gardener takes delight in a garden.
 
+![rajaniti96_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0008](https://user-images.githubusercontent.com/68504324/221460291-75629e6c-4682-4006-8963-7d1e50cb6e01.jpg)
+
+96. The king should have ministers who are nobly descended, pure, brave, learned, amicable, and well versed in the Niti. 
+
+![rajaniti97_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0008](https://user-images.githubusercontent.com/68504324/221460331-9f330254-3c45-4729-a490-b1b0c5408597.jpg)
+
+97. He is spoken of as a good minister who is learned, virtuous, and brave, industrious, accustomed to be victorious, and powerful, who is not covetous, has an amiable appearance, and is perfect in his organs.
+
+![rajaniti98_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0008](https://user-images.githubusercontent.com/68504324/221460345-44b6589b-3028-4343-9b61-143ce194fae5.jpg)
+
+98. A king governing a kingdom having deliberated separately with his ministers, should subsequently, after assembling them, follow a counsel which has been well considered.
+
+![rajaniti99_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0008](https://user-images.githubusercontent.com/68504324/221460363-f3963348-22aa-42b8-98b1-42bab2b6378f.jpg)
+
+99. The king should find out from wise men a thing he does not understand ; by removing doubt and making comparisons by means of his own wisdom, he should show the various advantages of his deliberation.
+
+![rajaniti100_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0008](https://user-images.githubusercontent.com/68504324/221460386-fd15dc39-0358-40bf-b1c7-7d4befbb6972.jpg)
+
+100. The king who always decides well is a perfect ruler; he is more powerful than his enemies; he never suffers ruin.
+
+![rajaniti101_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0008](https://user-images.githubusercontent.com/68504324/221460415-36680d23-f210-4ac7-84ec-3543c999751e.jpg)
+
+101. One who ministers to a king should prevent him from the commission of evil, should advance his prosperity, and should not reveal what ought to be concealed ; he should show forth his good qualities; in an emergency he should not forsake him ; he should, on suitable occasions, give him what should be given : the wise say that these are  the good characteristics of an attendant.
+
+![rajaniti102_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0008](https://user-images.githubusercontent.com/68504324/221460439-be6bb591-377a-4ec0-9f68-8d7ce0ce081a.jpg)
+
+102. The forming of friendship is easy, but difficult it is to keep it up ; a wise king should, therefore, contract friendship with both rich and poor.
+
+![rajaniti103_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0008](https://user-images.githubusercontent.com/68504324/221460463-28108882-0b48-4796-a8ab-ae2c41c4de00.jpg)
+
+103. He should bestow on a friend suitable gifts ; in time of adversity he should keep up his friendship ; not being forgetful of him when occasions of friendship present themselves, the king derives extensive benefits.
+
+![rajaniti104_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0008](https://user-images.githubusercontent.com/68504324/221460474-c97fa6d1-8e94-4e63-abe4-951853037e40.jpg)
+
+104. Until a favourable occasion has not arrived, one should carry his enemy on his shoulders; the time having come, he should dash him to pieces as a jar on a rock."
+
+![rajaniti105_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0008](https://user-images.githubusercontent.com/68504324/221460509-a60fd2d9-1102-4124-b82c-6b957c42eaed.jpg)
+
+105. The king who knows the horoscope of a brother king and strives to learn his own with reference to his strength and merits, he should engage in war ; doing so, he will always conquer.
+
+![rajaniti106_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0008](https://user-images.githubusercontent.com/68504324/221460526-f199e67a-aeda-4b03-9a18-71dcf76f0088.jpg)
+
+106. He should organise a campaign, having discovered all favourable circumstances in connection with himself, the great loss that his enemy is capable of suffering, and the  weakness of an enemy or of an ally.
+
+![rajaniti107_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0008](https://user-images.githubusercontent.com/68504324/221460546-ac7eba5e-4558-40a3-8cd6-4b909269b573.jpg)
+
+107. The constellation being propitious, by paying honour to the Three Ratans s5 and bestowing bounties upon the soldiery, the fighting becomes effective.
+
+![rajaniti108_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0008](https://user-images.githubusercontent.com/68504324/221460561-4a4cd0ba-8465-4812-a00c-0dabbf118423.jpg)
+
+108. A king is capable of conquering the whole earth if he have elephants, horses, and weapons, chariots, infantry, and treasures of every kind.
+
+![rajaniti109_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0008](https://user-images.githubusercontent.com/68504324/221460588-74f16868-950e-491c-bbee-3c98747ccd51.jpg)
+
+109. The king being wealthy who exalts and degrades according to people's deserts, he escapes everything—anger, anxiety, fear, covetousness, misfortune, and the loss of his lands.
+
+![rajaniti110_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0008](https://user-images.githubusercontent.com/68504324/221460601-047aacb3-57e8-441b-bf17-5a8fadca79c8.jpg)
+
+110. Therefore with great zeal should a king amass wealth by this is his safety secured.
+
+
 
 
 
