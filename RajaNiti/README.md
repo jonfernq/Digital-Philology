@@ -491,9 +491,11 @@ A collation of Raja Niti in the two texts cited above follows (picking apart and
 
 114. A crow coming at night to an owl's habitation, dies; an owl coming during the day to the crow's, also dies; a crocodile dies coming on land, a tiger coming into the water.
 
+![rajaniti116_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0009](https://user-images.githubusercontent.com/68504324/221464547-5ee35f0d-657d-4566-b382-9a29c987d8ff.jpg)
+
 115. Thus a king, not knowing the country and the proper time for battle, makes war. He, arriving in the enemy's kingdom and being deficient in forces, should bear in mind the words of the wise.
 
-![rajaniti116_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0009](https://user-images.githubusercontent.com/68504324/221464547-5ee35f0d-657d-4566-b382-9a29c987d8ff.jpg)
+![rajaniti116_true_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0009](https://user-images.githubusercontent.com/68504324/221470464-388f0131-dce7-4d6b-862d-65ab41795bf7.jpg)
 
 116. He should not, being intoxicated with pride, despise the enemy, thinking he will be overcome; he should not relax his efforts—he should always be diligent.
 
