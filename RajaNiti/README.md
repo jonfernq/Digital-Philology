@@ -369,18 +369,51 @@ A collation of Raja Niti in the two texts cited above follows (picking apart and
 83. The pride of low people increases by the display of too much forbearance; by the chastisement of a bad person others should be deterred from acting like him; by chastisement he is made to desist from evil; by chastisement the king bestows happiness.
 
 
+![rajaniti84_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0007](https://user-images.githubusercontent.com/68504324/221456645-dabf82a8-ba0c-4eb3-a594-e89f68aad64c.jpg)
 
+84. By a king inflicting punishment on any one others are  afraid of acting in the same way; even if unwilling to punish, he should award punishment having regard to future actions.
 
+![rajaniti85_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0007](https://user-images.githubusercontent.com/68504324/221456657-3da9ceb5-3970-4f6d-9b79-78feb303ad77.jpg)
 
+85. The tooth-cleaner about which he is ignorant, that which has knots, that with leaves, one from a fallen tree, one from the dry bark, that from a stump, and that produced in a village garden—such should not be used by a king.
 
+![rajaniti86_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0007](https://user-images.githubusercontent.com/68504324/221456666-3f03a766-9d0f-48b4-b031-3ebe261c38f9.jpg)
 
+86. He should use a tooth-cleaner facing the east and the north; it should be straight, without defect, and half a cubit in length : having washed it well, he should dispose of it in a clean place: while using it, he should not talk.
 
+![rajaniti87_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0007](https://user-images.githubusercontent.com/68504324/221456684-5a59366e-d68c-44ec-aa35-99497a000f49.jpg)
 
+87. Should a king not inflict 'punishment, he comes to grief like an elephant without his mate, a snake without poison, a sword without a scabbard, and a cave without a lion.
 
+![rajaniti88_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0007](https://user-images.githubusercontent.com/68504324/221456695-65b4bdfd-9cc7-44e2-8b2b-dc4ffca92ee2.jpg)
 
+88. People with large stomachs, hands, and feet, being afraid of punishment, pay great honour to a king; being punished severely, they hate him. Awarding punishment compatible with a crime is a means of securing peace.
 
+![rajaniti89_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0007](https://user-images.githubusercontent.com/68504324/221456710-f7a9800b-856e-4c57-96c3-920120e72687.jpg)
 
+89. Punishing the bad, honouring the good, increasing property lawfully, being impartial, and looking after the kingdom—these five things have been declared by the wise as characteristics of a king.
 
+![rajaniti90_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0007](https://user-images.githubusercontent.com/68504324/221456730-4299d6d7-994b-42b9-ae75-80adb8b5cd10.jpg)
+
+90. The king when wearied of fighting should tell some ministers equal in ability to himself, "Do you decide matters aright." Daily then should he make inquiries and allow himself proper rest."
+
+![rajaniti91_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0007](https://user-images.githubusercontent.com/68504324/221456738-a2ad760b-f88c-42cf-ac14-4bc30f66020f.jpg)
+
+91. Excepting every fifth day, at the appearance of the Razor asterism," while that asterism is in the ascendant, and at the appearance of asterisms 7, 5, and 3, reckoned  from the date of one's birth—excepting on these, one might cut off his beard beard-cutting should not be done during war or while spells are being performed.
+
+![rajaniti92_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0007](https://user-images.githubusercontent.com/68504324/221456747-a30b7aad-f0de-4698-a5b4-fac9e06ac618.jpg)
+
+92. Kings who do the things stated above, having conquered their enemies, will enjoy sovereignty for a long time over the earth, even to the verge of the ocean. Happy in their prosperity, there will be the advancement of religion. Having great happiness by being established in the Scriptures, they will attain the eternal rest.
+
+![rajaniti93_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0007](https://user-images.githubusercontent.com/68504324/221456778-06417da0-5162-475d-82e3-8bf5db8006a3.jpg)
+
+93. Just as a gardener always waters a good fruit-bearing tree and cuts down one having branches old or overgrown,crooked, dry, and trailing, so should a king, who resembles  a gardener, ever bear this in mind.
+
+![rajaniti94_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0007](https://user-images.githubusercontent.com/68504324/221456792-f61a765d-9c56-451e-ac2d-251fee68dcdf.jpg)
+
+![rajaniti95_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0007](https://user-images.githubusercontent.com/68504324/221456811-84167493-b18e-4525-b8e4-baa8d62beee4.jpg)
+
+94-95. A gardener should carefully plant a twig that has been thrown away ; he should break off the flowers in bloom, allow the small plants to develop, cause very erect ones  to bend, those too much inclined to be made more erect; he should remove the bark from trees that are too green; a tree being small, he should plant thorny shrubs on the outside ; he should cherish lovingly one that is in a thriving condition : a king, the cherisher of a kingdom, should take delight in his realm, just as a good gardener takes delight in a garden.
 
 
 
