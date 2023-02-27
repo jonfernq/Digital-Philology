@@ -322,6 +322,63 @@ A collation of Raja Niti in the two texts cited above follows (picking apart and
 
 71. He looks upon a small piece of water like the ocean, and the ocean as if dry land ; he considers the king as his  friend.
 
+![rajaniti72_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0006](https://user-images.githubusercontent.com/68504324/221451885-a4f43ba7-51b2-4850-85b7-f45d957ffda0.jpg)
+
+72. A drunkard diminishes his present property, engages in quarrel, contracts disease, destroys his good reputation, loses all sense of shame, and becomes weak in wisdom.
+
+![rajaniti73_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0006](https://user-images.githubusercontent.com/68504324/221451898-0c3dd166-1a80-40eb-893e-c5bc472bbd4d.jpg)
+
+73. Corrupt people are devoid of purity of behaviour; they discard their relatives as dead ; they are without anxiety, and dead to a sense of shame ; with great difficulty do they obtain the necessaries of life.
+
+![rajaniti74_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0006](https://user-images.githubusercontent.com/68504324/221451910-3b4c488c-ced7-4271-a08b-268863df2e1b.jpg)
+
+74. To him there are no Mends and relatives, no tranquillity, no compassion ; he is not fit to be seen; he knows not about the two worlds ;15 he deceives others and causes dissensions in the family.
+
+![rajaniti75_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0006](https://user-images.githubusercontent.com/68504324/221451926-3702b174-1462-416d-b079-79749c933c41.jpg)
+
+75. The king who puts no faith in the words of his councillors acquainted with the Vedas, but acts up to the wisdom of his own inclinations, he, hie a blind man without a guide, will, on account of enemies, ere long come to destruction.
+
+![rajaniti76_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0006](https://user-images.githubusercontent.com/68504324/221451936-0e2d080f-d7f4-46dd-be2e-63e51fdc9843.jpg)
+
+![rajaniti77_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0006](https://user-images.githubusercontent.com/68504324/221451953-04b70a90-7abd-4d07-8905-4d1c58e7070b.jpg)
+
+76-77. "Who am I ? what is the time and place f who are my enemies having advantages equal to or superior to my own ? who my friend l what strength have I ? what stratagem should I use I what is the benefit of my industry ? what the good results of my merit. ? who inimical to my prosperity ? what the best reply to an opponent's speech ?" Those kings who know these things in the accomplishment of a work have been termed by the wise " the most exalted of kings."
+
+![rajaniti78_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0006](https://user-images.githubusercontent.com/68504324/221451967-2d3bed9a-8499-497d-aa2e-126a3a9b61ee.jpg)
+
+78. Let them think about their duty in the morning—about the people in an enemy's country, the army, resources, and the land, those who are allies, the present and the future life, and what should and should not be done.
+
+![rajaniti79_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0006](https://user-images.githubusercontent.com/68504324/221451994-2746ad00-8017-4af7-a455-1f5a59beb99e.jpg)
+
+79. A king should honour one of conspicuous merit who has nobody to depend upon ; he should likewise honour a brave man and a righteous man belonging to a foreign country, saying for the information of all," This man has come into my kingdom."
+
+![rajaniti80_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0006](https://user-images.githubusercontent.com/68504324/221452003-ad35ff21-fb55-43c5-8d56-488a56e8d9f5.jpg)
+
+80. First of all, a king, having driven off sleep by song on the harp, should, at the conclusion of the singing, hear the recitation of the blessings, and go to sleep on the arrival of the third watch.
+
+![rajaniti81_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0006](https://user-images.githubusercontent.com/68504324/221452014-79552b9c-c96e-42c3-9696-42e48342a32d.jpg)
+
+81. A king, comporting himself suitably, holding up his right hand and appearing thoughtful, remaining gracefully seated and in a good position, and forgetful in his decision  whether one is a friend or an enemy, should give a legal judgment.
+
+![rajaniti82_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0006](https://user-images.githubusercontent.com/68504324/221452024-91c0cd3d-2200-4b40-aec8-074cf1c27db8.jpg)
+
+82. It is not the characteristic of a king not giving punishment while thinking to himself, "I am replete with forbearance;" by doing so a good king is looked upon as bad. This reflection on the part of others is the occasion for the infliction of punishment.
+
+![rajaniti83_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0006](https://user-images.githubusercontent.com/68504324/221452045-bd0f647f-bb1c-4b1c-b2b5-ade71d18077d.jpg)
+
+83. The pride of low people increases by the display of too much forbearance; by the chastisement of a bad person others should be deterred from acting like him; by chastisement he is made to desist from evil; by chastisement the king bestows happiness.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
