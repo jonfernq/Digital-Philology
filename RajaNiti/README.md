@@ -475,6 +475,83 @@ A collation of Raja Niti in the two texts cited above follows (picking apart and
 
 110. Therefore with great zeal should a king amass wealth by this is his safety secured.
 
+![rajaniti111_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0009](https://user-images.githubusercontent.com/68504324/221464437-4430f449-4b6b-471d-8842-f397f30c2ecc.jpg)
+
+111. He should overcome an enemy by concord, a coward by dissension, one avaricious by a gift, a weak person by punishments.
+
+![rajaniti112_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0009](https://user-images.githubusercontent.com/68504324/221464451-5d4ca13d-707a-4e6c-8736-6cdd59a56064.jpg)
+
+112. He who, having elephants, horses, wealth, and forces, is satisfied, does not engage in war, another subjugates him.
+
+![rajaniti113_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0009](https://user-images.githubusercontent.com/68504324/221464489-2e015b10-3e5b-41d6-9130-96b9c4025513.jpg)
+
+113. Those on the border having raised a rebellion, plunder the wealth of the country. One acquainted with the Niti causes them to come into his territory.
+
+![rajaniti114_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0009](https://user-images.githubusercontent.com/68504324/221464514-88e9d999-35e1-4fdd-8217-3db70c9f8d1a.jpg)
+
+114. A crow coming at night to an owl's habitation, dies; an owl coming during the day to the crow's, also dies; a crocodile dies coming on land, a tiger coming into the water.
+
+![rajaniti116_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0009](https://user-images.githubusercontent.com/68504324/221464547-5ee35f0d-657d-4566-b382-9a29c987d8ff.jpg)
+
+115. Thus a king, not knowing the country and the proper time for battle, makes war. He, arriving in the enemy's kingdom and being deficient in forces, should bear in mind the words of the wise.
+
+![rajaniti117_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0009](https://user-images.githubusercontent.com/68504324/221464565-2742b92c-ee18-4857-83bf-5e02c57cff41.jpg)
+
+116. He should not, being intoxicated with pride, despise the enemy, thinking he will be overcome; he should not relax his efforts—he should always be diligent.
+
+![rajaniti118_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0009](https://user-images.githubusercontent.com/68504324/221464580-60a8690f-44e5-4d56-80e6-55e12b62d05d.jpg)
+
+117. Verily small enemies are like fire-poison. The rampant elephant on the difficult mountain paths, although he has the strength of ten thousand soldiers, is subdued by men: being tied to a post, he rids himself of the temporal juice.
+
+![rajaniti119_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0009](https://user-images.githubusercontent.com/68504324/221464589-4ac0e315-07ab-4204-ad40-29c8da24f54a.jpg)
+
+118. The king should rule, first of all having constructed a fort, surrounded it with a rampart, and provided it fully with weapons, projectiles, and other munitions of war.
+
+
+![rajaniti120_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0009](https://user-images.githubusercontent.com/68504324/221464615-b7c8494c-2bae-4e1d-9252-f2476e466e56.jpg)
+
+119. 
+
+![rajaniti121_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0009](https://user-images.githubusercontent.com/68504324/221464633-358a8d65-9023-424e-91a5-7234ba5a116b.jpg)
+
+
+
+![rajaniti122_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0009](https://user-images.githubusercontent.com/68504324/221464653-9be23863-5ba2-4062-b32a-79285b15b558.jpg)
+
+
+
+
+![rajaniti123_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0009](https://user-images.githubusercontent.com/68504324/221464663-e24655e5-8721-4d1b-8cf9-ee80e83066a0.jpg)
+
+
+
+![rajaniti124_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0009](https://user-images.githubusercontent.com/68504324/221464682-b76bf628-57b0-4019-a860-83468b1ddacc.jpg)
+
+
+
+![rajaniti125_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0009](https://user-images.githubusercontent.com/68504324/221464694-ffe4511b-301c-4050-81a2-29becd44c4cc.jpg)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
