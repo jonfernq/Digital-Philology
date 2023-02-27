@@ -264,22 +264,80 @@ A collation of Raja Niti in the two texts cited above follows (picking apart and
 
 56. Diseases arise by too much drinking, by gratifying the passions inordinately, by constipation and by constriction, by sleeping in the day, and by keeping up at night: from these six diseases arise.
 
+![rajaniti57_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0005](https://user-images.githubusercontent.com/68504324/221449032-51d76cd5-de86-40d4-b136-8b44329ab3f2.jpg)
+
+57. Neither by drinking too much nor by drinking too little can digestion be carried on : therefore for the regulation of the bowels one should drink in moderation.
 
 
+![rajaniti58_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0005](https://user-images.githubusercontent.com/68504324/221449047-6cb620f9-da12-4ca0-a407-422b68a86e8a.jpg)
+
+58. Until food is settled, one, having eaten, should sit like a king; till then, after walking a hundred paces, he should lie on his left side.
 
 
+![rajaniti59_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0005](https://user-images.githubusercontent.com/68504324/221449075-5f976873-20ed-40d6-beb8-fe15075e538e.jpg)
+
+59. 
+
+![rajaniti60_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0005](https://user-images.githubusercontent.com/68504324/221449087-25aabe70-8c72-476e-88a0-1da5b73148d0.jpg)
+
+60. 
+
+![rajaniti61_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0005](https://user-images.githubusercontent.com/68504324/221449097-eda16d93-98d4-4a9c-a1b9-21bff8a9bcc3.jpg)
+
+61. 
+
+![rajaniti62_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0005](https://user-images.githubusercontent.com/68504324/221449115-ec1f2d58-4d47-4adf-bdc5-4ba95b637c54.jpg)
 
 
-
-
-
-
-
-
-
-
-
+![rajaniti63_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0005](https://user-images.githubusercontent.com/68504324/221449126-318a492d-4d11-4397-baa0-c81377673563.jpg)
 
                                   .                      
   
   
+  ![rajaniti64_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0005](https://user-images.githubusercontent.com/68504324/221449144-a614b650-50a0-4294-8aac-f4248f19378f.jpg)
+
+  
+  
+  
+  ![rajaniti65_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0005](https://user-images.githubusercontent.com/68504324/221449153-66b90b36-2cc7-420d-8388-d7b5560b06eb.jpg)
+
+
+![rajaniti66_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0005](https://user-images.githubusercontent.com/68504324/221449166-50c92f69-ae93-42bf-b55a-09bed6db191d.jpg)
+
+  
+  
+  ![rajaniti67_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0005](https://user-images.githubusercontent.com/68504324/221449178-2defb872-4c60-4139-8d68-47468276aa26.jpg)
+
+  
+  ![rajaniti68_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0005](https://user-images.githubusercontent.com/68504324/221449185-0e3124b6-8544-48ba-bff0-64dfb3898026.jpg)
+
+  
+  
+  ![rajaniti69_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0005](https://user-images.githubusercontent.com/68504324/221449189-c0ce1c97-bf37-4203-b419-9fd5fa6ce721.jpg)
+
+  
+![rajaniti70_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0005](https://user-images.githubusercontent.com/68504324/221449198-7eef4926-a67a-486b-afbc-7a526eee82a7.jpg)
+
+
+
+![rajaniti71_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0005](https://user-images.githubusercontent.com/68504324/221449222-6f14272c-3fe4-409f-9d84-83a72603a076.jpg)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
