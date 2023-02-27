@@ -491,30 +491,29 @@ A collation of Raja Niti in the two texts cited above follows (picking apart and
 
 114. A crow coming at night to an owl's habitation, dies; an owl coming during the day to the crow's, also dies; a crocodile dies coming on land, a tiger coming into the water.
 
-![rajaniti116_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0009](https://user-images.githubusercontent.com/68504324/221464547-5ee35f0d-657d-4566-b382-9a29c987d8ff.jpg)
-
 115. Thus a king, not knowing the country and the proper time for battle, makes war. He, arriving in the enemy's kingdom and being deficient in forces, should bear in mind the words of the wise.
 
-![rajaniti117_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0009](https://user-images.githubusercontent.com/68504324/221464565-2742b92c-ee18-4857-83bf-5e02c57cff41.jpg)
+![rajaniti116_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0009](https://user-images.githubusercontent.com/68504324/221464547-5ee35f0d-657d-4566-b382-9a29c987d8ff.jpg)
 
 116. He should not, being intoxicated with pride, despise the enemy, thinking he will be overcome; he should not relax his efforts—he should always be diligent.
 
-![rajaniti118_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0009](https://user-images.githubusercontent.com/68504324/221464580-60a8690f-44e5-4d56-80e6-55e12b62d05d.jpg)
+![rajaniti117_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0009](https://user-images.githubusercontent.com/68504324/221464565-2742b92c-ee18-4857-83bf-5e02c57cff41.jpg)
 
 117. Verily small enemies are like fire-poison. The rampant elephant on the difficult mountain paths, although he has the strength of ten thousand soldiers, is subdued by men: being tied to a post, he rids himself of the temporal juice.
 
-![rajaniti119_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0009](https://user-images.githubusercontent.com/68504324/221464589-4ac0e315-07ab-4204-ad40-29c8da24f54a.jpg)
+![rajaniti118_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0009](https://user-images.githubusercontent.com/68504324/221464580-60a8690f-44e5-4d56-80e6-55e12b62d05d.jpg)
 
 118. The king should rule, first of all having constructed a fort, surrounded it with a rampart, and provided it fully with weapons, projectiles, and other munitions of war.
-
-
-![rajaniti120_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0009](https://user-images.githubusercontent.com/68504324/221464615-b7c8494c-2bae-4e1d-9252-f2476e466e56.jpg)
+ 
+![rajaniti119_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0009](https://user-images.githubusercontent.com/68504324/221464589-4ac0e315-07ab-4204-ad40-29c8da24f54a.jpg)
 
 119. He should then maintain guards as vigilant as himself, elephants, horses, physicians, carpenters, Brahmans, and learned men.
 
-![rajaniti121_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0009](https://user-images.githubusercontent.com/68504324/221464633-358a8d65-9023-424e-91a5-7234ba5a116b.jpg)
+![rajaniti120_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0009](https://user-images.githubusercontent.com/68504324/221464615-b7c8494c-2bae-4e1d-9252-f2476e466e56.jpg)
 
 120. A king desiring to fight with another king should not go to war with a soldier who is covetous and evil-minded, cowardly, devoid of strength, and having no virtue.
+
+![rajaniti121_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0009](https://user-images.githubusercontent.com/68504324/221464633-358a8d65-9023-424e-91a5-7234ba5a116b.jpg)
 
 ![rajaniti122_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0009](https://user-images.githubusercontent.com/68504324/221464653-9be23863-5ba2-4062-b32a-79285b15b558.jpg)
 
@@ -567,46 +566,4 @@ A collation of Raja Niti in the two texts cited above follows (picking apart and
 ![rajaniti134_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0010](https://user-images.githubusercontent.com/68504324/221467377-c10d4e65-09eb-406e-945f-d3d31a19d6ad.jpg)
 
 134. A rampant elephant, powerful and possessed of noble qualities, although alone, destroys a whole army : a king, victorious among elephants, is like • the driver's hook; therefore is he known to be stronger than an elephant.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
