@@ -510,28 +510,27 @@ A collation of Raja Niti in the two texts cited above follows (picking apart and
 
 ![rajaniti120_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0009](https://user-images.githubusercontent.com/68504324/221464615-b7c8494c-2bae-4e1d-9252-f2476e466e56.jpg)
 
-119. 
+119. He should then maintain guards as vigilant as himself, elephants, horses, physicians, carpenters, Brahmans, and learned men.
 
 ![rajaniti121_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0009](https://user-images.githubusercontent.com/68504324/221464633-358a8d65-9023-424e-91a5-7234ba5a116b.jpg)
 
-
+120. A king desiring to fight with another king should not go to war with a soldier who is covetous and evil-minded, cowardly, devoid of strength, and having no virtue.
 
 ![rajaniti122_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0009](https://user-images.githubusercontent.com/68504324/221464653-9be23863-5ba2-4062-b32a-79285b15b558.jpg)
 
-
-
+121-122. Being properly cognisant of the enemy's strength and the strength of his own army, the Simya, Bheda, and Dina stratagems, and the circumstances of the country, a king should employ the Samya stratagem against one on an equality with himself, the Bheda against a brave warrior, and the Dana stratagem against one who is covetous; all others he should overcome by fighting.
 
 ![rajaniti123_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0009](https://user-images.githubusercontent.com/68504324/221464663-e24655e5-8721-4d1b-8cf9-ee80e83066a0.jpg)
 
-
+123. Of the six qualities, first of all generosity is termed sandhiguva; not realising its value is termed viggahaguna; the non-possession of both these is asanaguna; marching with all the necessaries of war is yanaguna; going with half an army is called dvidhaguna; having to depend upon the enemy is sangaguna.
 
 ![rajaniti124_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0009](https://user-images.githubusercontent.com/68504324/221464682-b76bf628-57b0-4019-a860-83468b1ddacc.jpg)
 
-
+124. The root of the kingly tree is the treasure, the earth is  the branch. What can a king do without wealth ? He is like a bird without wings.
 
 ![rajaniti125_RAJANITI_118_PaliNitiTexts_ofBurma-223-232_page-0009](https://user-images.githubusercontent.com/68504324/221464694-ffe4511b-301c-4050-81a2-29becd44c4cc.jpg)
 
-
+125. As to one desirous of appearing pleasant and beautiful the eye is a source of excellence, so should a king by watchfulness increase his property, income, carefulness, and prosperity.
 
 
 
