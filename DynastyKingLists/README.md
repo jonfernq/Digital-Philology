@@ -2,9 +2,9 @@
 
 Histories of Burma have traditionally provided lists of kings and their reign dates. 
 
-The lists provided by Harvey from the Pagan through Konbaung Dynasties are extensive. 
+The lists provided by Harvey's 'History of Burma' from the Pagan through Konbaung Dynasties are extensive. 
 
-### Pagan (Harvey's Hisory of Burma)
+### Pagan (Harvey)
 
 ![harvey_pagan_1](https://user-images.githubusercontent.com/68504324/222672757-99d876f0-6deb-412b-a872-8ff5ecd4a733.jpg)
 
