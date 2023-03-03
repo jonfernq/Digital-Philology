@@ -12,13 +12,15 @@ Computational methods applied to the critical study of historical and literary t
 
 ### Vamsa, Royal Genealogies and Periodization
 
-Historical works in India, Burma, Sri Lanka and other Theravadan Buddhist countries are written in the form of a [Vaṃśa](https://en.wikipedia.org/wiki/Va%E1%B9%83sa) (lineage, genealogy) (Sanskrit: वंशम्, IAST: Vaṃśam).
+Historical works in India, Burma, Sri Lanka and other Theravadan Buddhist countries are written in the form of a [Vaṃśa](https://en.wikipedia.org/wiki/Va%E1%B9%83sa) (lineage, genealogy) (Sanskrit: वंशम्).
 
 In the political sphere, this is a royal lineage of kings or local princes (lineage of a dynasty). 
 
-The  reigns of individual kings within a dynasty punctuated by occasional inter-regnum, provide a periodization of history into meaningful units of time. 
+The  reigns of individual kings within a dynasty punctuated by occasional inter-regna, provide a periodization of history into meaningful dynastic units of time. 
 
-In the religious sphere, this can be a lineage of monks and teachers. 'Theravadan Buddhism' is defined by an ordination lineage.  
+In contrast, in the religious sphere a Vaṃśa can be a lineage of monks and teachers. 'Theravadan Buddhism' is defined by ordination lineages (a point I heard scholar of Buddhism Peter Skilling make repeatedly).  
+
+Here are some dynastically organized lists of Burmese kings: 
 
 - [Burmese King Lists by Dynasty](https://github.com/jonfernq/Digital-Philology/tree/main/DynastyKingLists)
 
