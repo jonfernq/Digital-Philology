@@ -1,8 +1,8 @@
 ## The Burmese Chronicle
 
-The royal chronicles of Myanmar (Burmese: မြန်မာ ရာဇဝင် ကျမ်းများ) also known as [Burmese chronicles](https://en.wikipedia.org/wiki/Burmese_chronicles) are detailed and continuous chronicles of the monarchy of Myanmar (Burma). 
+The royal chronicles of Myanmar (Burmese: မြန်မာ ရာဇဝင် ကျမ်းများ) also known as [Burmese chronicles](https://en.wikipedia.org/wiki/Burmese_chronicles) are detailed and continuous chronicles of the kings of Myanmar (Burma). 
 
-The most complete extant chronicles are those of Upper Burma-based dynasties. The first standard national chronicle dates from the 1720s.
+The most complete extant chronicles are those of Upper Burma-based royal dynasties. The first standard national chronicle dates from the 1720s.
 
 Chronicles are of the Pali-Sanskrit 'vamsa' literary genre, chronicling the royal dynastic lineages of kings.
 
@@ -17,7 +17,9 @@ but there are two published translations of parts of the Burmese Chronicle:
 
 What follows consists of the story narratives of the Glass Palace Chronicle translation above in summary form. 
 This is done in a sense, to get it out of the way before presenting my own translation of the greater part of the chronicle,
-and moving on from that towards integration into a greater regional history from the Bay of Bengal to Yunnan. 
+and moving on from that towards integration into a greater regional history from the Bay of Bengal to Yunnan,
+but not a history in a strictly factual sense, but rather one based on the stories of historical chronicles,
+taking an [emic](https://en.wikipedia.org/wiki/Emic_and_etic) insider's perspective on genres of history writing ultimately derived from the Indian Pali and Sanskrit traditions. 
 
 ### Kings of Pagan
 
