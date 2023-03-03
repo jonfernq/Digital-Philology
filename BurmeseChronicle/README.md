@@ -12,11 +12,12 @@ I have my own translation of probably the most important Burmese Chronicle, [U K
 which most subsequent chronicles in the 18th century are based upon, 
 but there are two published translations of parts of the Burmese Chronicle: 
 
-- [Glass Palace Chronicle](https://en.wikipedia.org/wiki/Glass_Palace_Chronicle)
+- [Glass Palace Chronicle](https://en.wikipedia.org/wiki/Glass_Palace_Chronicle) by [Pe Maung Tin](https://en.wikipedia.org/wiki/Pe_Maung_Tin) and [Gordon Luce](https://en.wikipedia.org/wiki/Gordon_Luce).
 - Kala, U (2016). *The Great Chronicle 1597-1711.* Translated by Tun Aung Chain. Yangon: Myanmar Knowledge Society.
 
 What follows consists of the story narratives of the Glass Palace Chronicle translation above in summary form. 
-This is done in a sense, to get it out of the way before presenting my own translation of the greater part of the chronicle. 
+This is done in a sense, to get it out of the way before presenting my own translation of the greater part of the chronicle,
+and moving on from that towards integration into a greater regional history from the Bay of Bengal to Yunnan. 
 
 ### Kings of Pagan
 
