@@ -6,7 +6,7 @@ The most complete extant chronicles are those of Upper Burma-based royal dynasti
 
 Chronicles are of the Pali-Sanskrit 'vamsa' literary genre, chronicling the royal dynastic lineages of kings.
 
-Chronicles focus largely on royal efforts directed towards consolidating and extending power geographically, particularly through military means, as well as supporting the Buddhist religion through religioous donations, the support of monks and monastic institions, and the construction of temples and pagodas. 
+Chronicles focus largely on royal efforts directed towards consolidating and extending power geographically, particularly through military means, as well as supporting the Buddhist religion through religioous donations, the support of monks and monastic institutions, and the construction of temples and pagodas. 
 
 I have my own translation of probably the most important Burmese Chronicle, [U Kala's Mahayazawingyi](https://en.wikipedia.org/wiki/Maha_Yazawin), 
 which most subsequent chronicles in the 18th century are based upon, 
