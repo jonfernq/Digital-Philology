@@ -1,6 +1,16 @@
-## Digital-Philology
+## Mainland Southeast Asian History: Burmese, Tai & Mon...
 
-Computational methods applied to the critical study of historical and literary texts.
+First, we have the original primary source materials for mainland Southeast Asian history, consisting basically of chronicles and inscriptions. There are other types of sources, such as Ming dynasty court annals (Ming Shr Lue) or travels narratives of Portuguese mercenary adventurers. 
+
+There has been very little in the way of publishing well-edited translations of these chronicles and inscriptions, and this does not seem likely to change in the near future. Thus, that is one goal here. 
+
+Second, the use of primary sources to write insightful and engaging historical narratives and monographs focused on one aspect of history, is also not very well-developed. 
+
+Also, transnational histories that take a broader focus, weaving together the histories of different geographical regions, lags in development, though definitely started in an encyclopedic fashion by Victor B. Lieberman's *Strange Parallels*.
+
+So, there are many undeveloped facets of mainland Southeast Asian history to be further developed. 
+
+The methodological aim here is to employ 'digital philology', meaning computational methods applied to the critical study of historical and literary texts.
 
 ### Raja Niti
 
