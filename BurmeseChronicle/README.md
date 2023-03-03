@@ -23,7 +23,7 @@ I note this only because the western discipline of history since the time of [Ra
 
 The Wikipedia article on [Anawrahta](https://en.wikipedia.org/wiki/Anawrahta) provides a good overview of factual history and bibliography noting that, "his life stories (legends) are a staple of Burmese folklore and retold in popular literature and theater." These stories as well as records of religious donations and military campaigns provide much of the content of the Burmese Chronicle, providing a semi-fictional historical narrative summarized here:
 
-- [Anawrahtaminsaw's Story]()
+- [Anawrahtaminsaw's Story](https://github.com/jonfernq/Digital-Philology/blob/main/BurmeseChronicle/AnawrahtaminsawStory.md)
 
 
 
