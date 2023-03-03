@@ -25,5 +25,9 @@ The Wikipedia article on [Anawrahta](https://en.wikipedia.org/wiki/Anawrahta) pr
 
 - [Anawrahtaminsaw's Story](https://github.com/jonfernq/Digital-Philology/blob/main/BurmeseChronicle/AnawrahtaminsawStory.md)
 
+**Saw Lu စောလူး also known as Min Lulin မင်းလုလင် literally 'Boy King' (1077-1084)  In 1082, he faced a rebellion in Lower Burma in 1082, captured in 1083, and killed in captivity a year later. His [Wikipedia article](https://en.wikipedia.org/wiki/Saw_Lu) is very brief. The historical chronicle version of his life: 
+
+- [Saw Lu's Story]() 
+
 
 
