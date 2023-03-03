@@ -35,7 +35,7 @@ The Wikipedia article on [Anawrahta](https://en.wikipedia.org/wiki/Anawrahta) pr
 
 "His reign was largely peaceful. A great admirer of Mon culture, he pursued a conciliatory policy towards the Mon of the south, and continued the patronage of Mon language and culture at his court. It was in his reign that the synthesis of Burman, Mon, Pyu and Buddhist practices into a Burmese cultural tradition began to reach a level of maturity. The Burmese script began to be used alongside Pyu, Mon, and Pali. A peaceful Pagan grew wealthy from agriculture and trade, and large scale temple building began in earnest. Kyansittha completed Anawrahta's Shwezigon Pagoda and built his crowning achievement, the Ananda Temple. Pagan became a major center of Buddhist learning." (Source: [Wikipedia](https://en.wikipedia.org/wiki/Kyansittha)). The historical chronicle version of his life: 
 
-- [Kyansittha's Story]()
+- [Kyansittha's Story](https://github.com/jonfernq/Digital-Philology/blob/main/BurmeseChronicle/KyansitthaStory.md)
 
 
 
