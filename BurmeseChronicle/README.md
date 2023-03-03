@@ -10,8 +10,15 @@ Chronicles focus largely on royal efforts directed towards consolidating and ext
 
 ### Kings of Pagan
 
-[Anawrahtaminsaw (1017-1059)]() - "In December 1044, a Pagan prince named Anawrahta came to power. 
+**Anawrahtaminsaw အနော်ရထာ မင်းစော** 11 May 1014 – 11 April 1077 (1017-1059) - 
+"In December 1044, a Pagan prince named Anawrahta came to power.  
 Over the next three decades, he turned this small principality into the First Burmese Empire — 
 the "charter polity" that formed the basis of modern-day Burma/Myanmar.
 Historically verifiable Burmese history begins with his accession" (Source: [Wikipedia](https://en.wikipedia.org/wiki/Pagan_Kingdom#Pagan_Empire))
+
+The Wikipedia article on [Anawrahta](https://en.wikipedia.org/wiki/Anawrahta) provides a good historical overview and bibliography noting that, "his life stories (legends) are a staple of Burmese folklore and retold in popular literature and theater." These stories as well as records of religious donations and military campaigns provide much of the content of the Burmese Chronicle, providing a semi-fictional historical narrative summarized here:
+
+- [Anawrahtaminsaw's Story]()
+
+
 
