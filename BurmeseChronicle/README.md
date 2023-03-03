@@ -4,15 +4,15 @@ The royal chronicles of Myanmar (Burmese: မြန်မာ ရာဇဝင် 
 
 The most complete extant chronicles are those of Upper Burma-based royal dynasties. The first standard national chronicle dates from the 1720s.
 
-Chronicles are of the Pali-Sanskrit 'vamsa' literary genre, chronicling the royal dynastic lineages of kings.
+Chronicles are of the Pali-Sanskrit ['vamsa'](https://en.wikipedia.org/wiki/Va%E1%B9%83sa) literary genre, chronicling the royal dynastic lineages of kings.
 
-Chronicles focus largely on royal efforts directed towards consolidating and extending power geographically, particularly through military means, as well as supporting the Buddhist religion through religioous donations, the support of monks and monastic institutions, and the construction of temples and pagodas. 
+Chronicles focus largely on royal efforts directed towards consolidating and extending power geographically, particularly through military means, as well as supporting the Buddhist religion through religious donations, the support of monks and monastic institutions, and the construction of temples and pagodas. 
 
 I have my own translation of probably the most important Burmese Chronicle, [U Kala's Mahayazawingyi](https://en.wikipedia.org/wiki/Maha_Yazawin), 
 which most subsequent chronicles in the 18th century are based upon, 
 but there are two published translations of parts of the Burmese Chronicle: 
 
-- [Glass Palace Chronicle](https://en.wikipedia.org/wiki/Glass_Palace_Chronicle) by [Pe Maung Tin](https://en.wikipedia.org/wiki/Pe_Maung_Tin) and [Gordon Luce](https://en.wikipedia.org/wiki/Gordon_Luce).
+- [Glass Palace Chronicle](https://en.wikipedia.org/wiki/Glass_Palace_Chronicle) by [Pe Maung Tin](https://en.wikipedia.org/wiki/Pe_Maung_Tin) and [Gordon Luce](https://en.wikipedia.org/wiki/Gordon_Luce) [Only Pagan period]
 - Kala, U (2016). *The Great Chronicle 1597-1711.* Translated by Tun Aung Chain. Yangon: Myanmar Knowledge Society.
 
 What follows consists of the story narratives of the Glass Palace Chronicle translation above in summary form. 
