@@ -10,6 +10,16 @@ Computational methods applied to the critical study of historical and literary t
 
 - [Rajadhirat Periodization Tree](https://github.com/jonfernq/Digital-Philology/tree/main/HistoricalTimelines): A historical timeline can be stored in a tree-like database.
 
+### Vamsa, Royal Genealogies and Periodization
+
+Historical works in India, Burma, Sri Lanka and other Theravadan Buddhist countries are written in the form of a Vaṃśa (lineage, genealogy) (Sanskrit: वंशम्, IAST: Vaṃśam).
+
+In the political sphere, this is a royal lineage of kings or local princes (lineage of a dynasty). 
+
+The  reigns of individual kings within a dynasty punctuated by occasional inter-regnum, provide a periodization of history into meaningful units of time. 
+
+In the religious sphere, this can be a lineage of monks and teachers. 'Theravadan Buddhism' is defined by an ordination lineage.  
+
 ### Tracking Wikipedia Coverage of History
 
 In many countries nowadays, people are more likely to get the history of their country from Wikipedia, rather than the expensive, published, library-bound scholarly monographs that provide the most accurate information and historical analysis. 
