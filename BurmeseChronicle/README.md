@@ -29,5 +29,18 @@ The Wikipedia article on [Anawrahta](https://en.wikipedia.org/wiki/Anawrahta) pr
 
 - [Saw Lu's Story](https://github.com/jonfernq/Digital-Philology/blob/main/BurmeseChronicle/SawLuStory.md) 
 
+**Kyansittha ကျန်စစ်သား** (1084-1112/13) or Hti-Hlaing Shin, "is considered one of the greatest Burmese monarchs. He continued the social, economic and cultural reforms begun by his father, King Anawrahta." 
+
+"In his early life, Kyansittha was a popular and successful general who led Anawrahta's major military campaigns that founded the Pagan Empire. He was exiled twice in the 1070s and 1080s for his affair with Queen Manisanda. Kyansittha ascended to the Pagan throne in 1084 after suppressing a major Mon rebellion that killed King Saw Lu."
+
+"His reign was largely peaceful. A great admirer of Mon culture, he pursued a conciliatory policy towards the Mon of the south, and continued the patronage of Mon language and culture at his court. It was in his reign that the synthesis of Burman, Mon, Pyu and Buddhist practices into a Burmese cultural tradition began to reach a level of maturity. The Burmese script began to be used alongside Pyu, Mon, and Pali. A peaceful Pagan grew wealthy from agriculture and trade, and large scale temple building began in earnest. Kyansittha completed Anawrahta's Shwezigon Pagoda and built his crowning achievement, the Ananda Temple. Pagan became a major center of Buddhist learning." (Source: [Wikipedia](https://en.wikipedia.org/wiki/Kyansittha)). The historical chronicle version of his life: 
+
+- [Kyansittha's Story]()
+
+
+
+
+
+
 
 
