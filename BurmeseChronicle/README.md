@@ -8,6 +8,16 @@ Chronicles are of the Pali-Sanskrit 'vamsa' literary genre, chronicling the roya
 
 Chronicles focus largely on royal efforts directed towards consolidating and extending power geographically, particularly through military means, as well as supporting the Buddhist religion through religioous donations, the support of monks and monastic institions, and the construction of temples and pagodas. 
 
+I have my own translation of probably the most important Burmese Chronicle, [U Kala's Mahayazawingyi](https://en.wikipedia.org/wiki/Maha_Yazawin), 
+which most subsequent chronicles in the 18th century are based upon, 
+but there are two published translations of parts of the Burmese Chronicle: 
+
+- [Glass Palace Chronicle](https://en.wikipedia.org/wiki/Glass_Palace_Chronicle)
+- Kala, U (2016). *The Great Chronicle 1597-1711.* Translated by Tun Aung Chain. Yangon: Myanmar Knowledge Society.
+
+What follows consists of the story narratives of the Glass Palace Chronicle translation above in summary form. 
+This is done in a sense, to get it out of the way before presenting my own translation of the greater part of the chronicle. 
+
 ### Kings of Pagan
 
 **Anawrahtaminsaw အနော်ရထာ မင်းစော** (1044-1077) - 
