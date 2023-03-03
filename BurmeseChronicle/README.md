@@ -39,7 +39,7 @@ The Wikipedia article on [Anawrahta](https://en.wikipedia.org/wiki/Anawrahta) pr
 
 **Alaungsithu အလောင်းစည်သူ (1112/13-1167)** Alaungsithu's reign,  "was a prosperous one in which Pagan was an integral part of in-land and maritime trading networks. Sithu engaged in a massive building campaign throughout the kingdom, which included colonies, forts and outposts at strategic locations to strengthen the frontiers, ordination halls and pagodas for the support of religion, as well as reservoirs, dams and other land improvements to assist the farmers. He also introduced standardized weights and measures throughout the country to assist administration as well as trade. He presided over the beginning of a transition away from the Mon culture toward the expression of a distinctive Burman style. [He] is remembered a peripatetic king who traveled extensively throughout his realm, built monuments and nurtured Theravada Buddhism with acts of piety."  The historical chronicle version of his life: 
 
-- [Alaungsithu's Story]()
+- [Alaungsithu's Story](https://en.wikipedia.org/wiki/Alaungsithu)
 
 
 
