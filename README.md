@@ -28,9 +28,11 @@ Essential theory texts for conceptualizing the historical mode of production of 
 
 ![diagram](https://user-images.githubusercontent.com/68504324/222989846-7539ac89-40de-4591-8186-e5e91ad5687a.jpg)
 
+- *The politics of aristocratic empires* (1982) by John H. Kautsky
 
+- Works by [Peter Turchin](https://en.wikipedia.org/wiki/Peter_Turchin) who has quantified empirical dynamics models of warfare and the rise and fall of states.  
 
-
+- *The Grand Strategy of the Roman Empire from the First Century AD to the Third* (1976) by Edward Luttwak. 
 
 ### Historical Timelines
 
