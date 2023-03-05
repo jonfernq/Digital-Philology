@@ -6,7 +6,7 @@ There are other types of sources, external sources that can be juxtaposed with p
 
 There has been very little in the way of publishing well-edited translations of the primary source chronicles and inscriptions, and this does not seem likely to change in the near future. Those shining examples that do exist, such as Geoffrey Wade's translations from the Ming Shilu for Southeast Asia, or Pat Pranke's translaton of the Vamsadipani chronicle of monastic institutions in Burma, have not gained their due of recognition with the scholarly community and academia. 
 
-We are entering a new era of automated translation as large-scale models make headway in machine translation, so it is only natural to start thinking about how to best harness this technology towards translating long-untranslated primary source material for Southeast Asian history.  
+We are entering a new era of automated machine translation as [large-scale language models](https://en.wikipedia.org/wiki/Wikipedia:Large_language_models) make headway in [machine translation](https://en.wikipedia.org/wiki/Machine_translation), so it is only natural to start thinking about how to best harness this technology towards scholarly translation, and translating the long-untranslated primary source material for Southeast Asian history.  
 
 Second, the use of primary sources to write insightful and engaging historical narratives and monographs is also not very well-developed. 
 
