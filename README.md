@@ -4,13 +4,15 @@ First, we have the original primary source materials for mainland Southeast Asia
 
 There are other types of sources, external sources that can be juxtaposed with primary sources to critically assess their veracity and relevanc such as Ming dynasty court annals ([Ming Shilu](https://en.wikipedia.org/wiki/Ming_Shilu)) or travels narratives of Portuguese mercenary adventurers such as [Fernão Mendes Pinto](https://en.wikipedia.org/wiki/Fern%C3%A3o_Mendes_Pinto). 
 
-There has been very little in the way of publishing well-edited translations of the primary source chronicles and inscriptions, and this does not seem likely to change in the near future. Thus, that is one goal here, but we are entering a new era of automated translation as large-scale models make headway in machine translation. It is only natural to harness this technology towards translating long-untranslated primary source material for Southeast Asian history.  
+There has been very little in the way of publishing well-edited translations of the primary source chronicles and inscriptions, and this does not seem likely to change in the near future. Those shining examples that do exist, such as Geoffrey Wade's translations from the Ming Shilu for Southeast Asia, or Pat Pranke's translaton of the Vamsadipani chronicle of monastic institutions in Burma, have not gained their due of recognition with the scholarly community and academia. 
+
+We are entering a new era of automated translation as large-scale models make headway in machine translation, so it is only natural to start thinking about how to best harness this technology towards translating long-untranslated primary source material for Southeast Asian history.  
 
 Second, the use of primary sources to write insightful and engaging historical narratives and monographs is also not very well-developed. 
 
 [Transnational histories](https://en.wikipedia.org/wiki/Transnational_history) (or trans-polity trans-political unit in the premodern context) that take a broader focus, weaving together the histories of different geographical regions, also lags in development (though definitely given impetus by [Victor B. Lieberman's](https://en.wikipedia.org/wiki/Victor_Lieberman) *Strange Parallels* (2003, 2009)).
 
-So, there are many undeveloped facets of mainland Southeast Asian history that remain to be further developed. The methodological aim here is to employ 'digital philology', meaning computational methods applied to the critical study of historical and literary texts.
+So, there are many undeveloped facets of mainland Southeast Asian history that remain to be further developed. The methodological aim here is to employ 'digital philology', meaning computational methods applied to the critical and elucidating translation and study of indigenous historical and literary texts.
 
 ### Raja Niti
 
