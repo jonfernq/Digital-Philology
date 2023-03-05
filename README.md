@@ -8,7 +8,7 @@ There has been very little in the way of publishing well-edited translations of 
 
 Second, the use of primary sources to write insightful and engaging historical narratives and monographs is also not very well-developed. 
 
-Transnational histories (or trans-polity trans-political unit in the premodern context) that take a broader focus, weaving together the histories of different geographical regions, also lags in development (though definitely given impetus by [Victor B. Lieberman's](https://en.wikipedia.org/wiki/Victor_Lieberman) *Strange Parallels* (2003, 2009)).
+[Transnational histories](https://en.wikipedia.org/wiki/Transnational_history) (or trans-polity trans-political unit in the premodern context) that take a broader focus, weaving together the histories of different geographical regions, also lags in development (though definitely given impetus by [Victor B. Lieberman's](https://en.wikipedia.org/wiki/Victor_Lieberman) *Strange Parallels* (2003, 2009)).
 
 So, there are many undeveloped facets of mainland Southeast Asian history that remain to be further developed. The methodological aim here is to employ 'digital philology', meaning computational methods applied to the critical study of historical and literary texts.
 
