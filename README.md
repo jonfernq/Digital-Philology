@@ -30,6 +30,8 @@ Essential theory texts for conceptualizing the historical mode of production of 
 
 - *The politics of aristocratic empires* (1982) by John H. Kautsky
 
+- *Military Organization and Society* (1954) by [Stanislav Andreski](https://en.wikipedia.org/wiki/Stanislav_Andreski)
+
 - *Warless Societies and the Origin of War* by [Raymond C. Kelly](https://en.wikipedia.org/wiki/Raymond_C._Kelly): "...employs a comparative ethnographic analysis of warless and warlike hunting and gathering societies to isolate distinctive features of peaceful preagricultural people and to develop a theoretical model of the origin of war and the early coevolution of war and society," particularly insightful in exploring the nexus between law and warfare contrasting the sanction of the punishment of death for a crime of murder with tit-for-tat feud which targets the whole family of the perpetrator to revenge the killing. 
 
 - Works by [Peter Turchin](https://en.wikipedia.org/wiki/Peter_Turchin) who has quantified empirical dynamics models of warfare and the rise and fall of states.  
