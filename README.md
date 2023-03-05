@@ -22,7 +22,7 @@ So, there are many undeveloped facets of mainland Southeast Asian history that r
 
 Essential texts for conceptualizing the historical mode of production of mainland Southeast Asian political formations c. 1300-1600. 
 
-- [A Paradigm for the Study of War and Society]() by Brian Ferguson: Paraphrased [here]() to isolate the essential ideas and as a step towards applying the ideas to Burrmese history.  
+- [A Paradigm for the Study of War and Society](https://www.academia.edu/3112540/A_Paradigm_for_the_Study_of_War_and_Society) by Brian Ferguson: Paraphrased [here](https://github.com/jonfernq/Digital-Philology/blob/main/Theory/ParadigmsOfWarAndSociety.md) to isolate the essential ideas and as a step towards applying the ideas to Burmese history.  
 
 ### Historical Timelines
 
