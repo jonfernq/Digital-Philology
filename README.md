@@ -20,9 +20,17 @@ So, there are many undeveloped facets of mainland Southeast Asian history that r
 
 ### Theory 
 
-Essential texts for conceptualizing the historical mode of production of mainland Southeast Asian political formations c. 1300-1600. 
+Essential theory texts for conceptualizing the historical mode of production of mainland Southeast Asian political formations c. 1300-1600. 
 
 - [A Paradigm for the Study of War and Society](https://www.academia.edu/3112540/A_Paradigm_for_the_Study_of_War_and_Society) by Brian Ferguson: Paraphrased [here](https://github.com/jonfernq/Digital-Philology/blob/main/Theory/ParadigmsOfWarAndSociety.md) to isolate the essential ideas and as a step towards applying the ideas to Burmese history.  
+
+- [How Chiefs Come to Power](https://www.scribd.com/document/434097760/Earle-Timothy-How-Chiefs-Come-to-Power#) by Timothy Earle: A study of the political 'power' of chiefs with respect to the political formation of the 'chieftainship' is nicely summarized in a diagram: 
+
+![diagram](https://user-images.githubusercontent.com/68504324/222989846-7539ac89-40de-4591-8186-e5e91ad5687a.jpg)
+
+
+
+
 
 ### Historical Timelines
 
