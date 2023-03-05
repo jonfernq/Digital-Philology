@@ -1,16 +1,16 @@
-## Mainland Southeast Asian History: Burmese, Tai & Mon...
+## History: Tai, Mon, Burmese
 
-First, we have the original primary source materials for mainland Southeast Asian history, consisting basically of chronicles and inscriptions. There are other types of sources, such as Ming dynasty court annals (Ming Shr Lue) or travels narratives of Portuguese mercenary adventurers. 
+First, we have the original primary source materials for mainland Southeast Asian history, consisting basically of chronicles and inscriptions. This genre of source material is composed according to its own set of conventions and provides a limited circumscribed set of information from which inferences are often made. 
 
-There has been very little in the way of publishing well-edited translations of these chronicles and inscriptions, and this does not seem likely to change in the near future. Thus, that is one goal here. 
+There are other types of sources, external sources that can be juxtaposed with primary sources to critically assess their veracity and relevanc such as Ming dynasty court annals ([Ming Shilu](https://en.wikipedia.org/wiki/Ming_Shilu)) or travels narratives of Portuguese mercenary adventurers such as [Fernão Mendes Pinto](https://en.wikipedia.org/wiki/Fern%C3%A3o_Mendes_Pinto). 
 
-Second, the use of primary sources to write insightful and engaging historical narratives and monographs focused on one aspect of history, is also not very well-developed. 
+There has been very little in the way of publishing well-edited translations of the primary source chronicles and inscriptions, and this does not seem likely to change in the near future. Thus, that is one goal here, but we are entering a new era of automated translation as large-scale models make headway in machine translation. It is only natural to harness this technology towards translating long-untranslated primary source material for Southeast Asian history.  
 
-Also, transnational histories that take a broader focus, weaving together the histories of different geographical regions, lags in development, though definitely started in an encyclopedic fashion by Victor B. Lieberman's *Strange Parallels*.
+Second, the use of primary sources to write insightful and engaging historical narratives and monographs is also not very well-developed. 
 
-So, there are many undeveloped facets of mainland Southeast Asian history to be further developed. 
+Transnational histories (or trans-polity trans-political unit in the premodern context) that take a broader focus, weaving together the histories of different geographical regions, also lags in development (though definitely given impetus by [Victor B. Lieberman's](https://en.wikipedia.org/wiki/Victor_Lieberman) *Strange Parallels* (2003, 2009)).
 
-The methodological aim here is to employ 'digital philology', meaning computational methods applied to the critical study of historical and literary texts.
+So, there are many undeveloped facets of mainland Southeast Asian history that remain to be further developed. The methodological aim here is to employ 'digital philology', meaning computational methods applied to the critical study of historical and literary texts.
 
 ### Raja Niti
 
