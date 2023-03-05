@@ -18,6 +18,12 @@ So, there are many undeveloped facets of mainland Southeast Asian history that r
 
 - [Raja Niti](https://github.com/jonfernq/Digital-Philology/tree/main/RajaNiti): Raja Niti are lists of aphorisms on kingship derived from ancient Indian Sanskrit and Pali literature widespread and influential in the literatures of Theravadan Buddhist countries such as Thailand and Burma. 
 
+### Theory 
+
+Essential texts for conceptualizing the historical mode of production of mainland Southeast Asian political formations c. 1300-1600. 
+
+- [A Paradigm for the Study of War and Society]() by Brian Ferguson: Paraphrased [here]() to isolate the essential ideas and as a step towards applying the ideas to Burrmese history.  
+
 ### Historical Timelines
 
 - [Rajadhirat Periodization Tree](https://github.com/jonfernq/Digital-Philology/tree/main/HistoricalTimelines): A historical timeline can be stored in a tree-like database.
