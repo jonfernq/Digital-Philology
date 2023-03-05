@@ -1,6 +1,6 @@
 ## History: Tai, Mon, Burmese
 
-First, we have the original primary source materials for mainland Southeast Asian history, consisting basically of chronicles and inscriptions. This genre of source material is composed according to its own set of conventions and provides a limited circumscribed set of information from which inferences are often made. 
+First, we have the original primary source materials for mainland Southeast Asian history, consisting basically of [chronicles](https://en.wikipedia.org/wiki/Burmese_chronicles) and [inscriptions](https://en.wikipedia.org/wiki/Category:Inscriptions_of_Myanmar). These genres of source material are composed according to their own sets of conventions and provide limited circumscribed sets of information from which inferences are often made about wider aspects of society. 
 
 There are other types of sources, external sources that can be juxtaposed with primary sources to critically assess their veracity and relevanc such as Ming dynasty court annals ([Ming Shilu](https://en.wikipedia.org/wiki/Ming_Shilu)) or travels narratives of Portuguese mercenary adventurers such as [Fernão Mendes Pinto](https://en.wikipedia.org/wiki/Fern%C3%A3o_Mendes_Pinto). 
 
