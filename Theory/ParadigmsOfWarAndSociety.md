@@ -75,7 +75,7 @@ Checklist of comparative points:
 - 7. Sparta rose to prominence on the backs of slaves in ancient Greece.
 - 8. The reign of the Abbasids depended on a constant supply of enslaved tribesmen-warriors from their periphery.
 - 9. Japan experienced scarcity of labor due to epidemics and other disasters, leading to a series of population crashes from the eighth to the eleventh century.
-- 10 Extreme violence was used in Japan to make peasants work the land during population crashes.
+- 10. Extreme violence was used in Japan to make peasants work the land during population crashes.
 - 11. Old Kingdom Egypt and other ancient societies relocated defeated populations where they would be more useful.
 - 12. Skilled craftsmen of defeated cities were often counted as booty by Hittites in ancient societies.
 
@@ -166,6 +166,13 @@ Armies are formal institutions that stand in defined relationships to institutio
 
 The following passage discusses the relationship between war and the distribution of goods and services within societies. While anthropology has not delved deeply into this topic, the way in which goods and services are provided and distributed will impact how scarcity is experienced in different social positions. Economic structures can generate scarcities and demands beyond subsistence needs that lead to war, as seen among the cattle-raiding Nuer in the demands of bride price payments. War can also affect economies, as lineage chiefs on the Pacific Northwest coast had to spur production and commoners accept a centralized economy in order to amass food and wealth for military allies. In stratified societies, scarcities may not be experienced directly by elite decision-makers, but can result in political unrest, as was the case during Roman expansion. Isocrates described a growing gap between rich and poor that generated a surfeit of landless mercenaries, and Alexander’s thrust through Persia was motivated by the need to redirect these men elsewhere.
 
+- 1. The relationship between war and the distribution of goods and services within societies is an important topic to study.
+- 2. Economic structures can generate scarcities and demands beyond subsistence needs that lead to war.
+- 3. War can also affect economies, as seen among lineage chiefs on the Pacific Northwest coast who had to spur production and amass food and wealth for military allies.
+- 4. In stratified societies, scarcities may not be experienced directly by elite decision-makers but can result in political unrest.
+- 5. Isocrates described a growing gap between rich and poor that generated a surfeit of landless mercenaries.
+- 6. Alexander's thrust through Persia was motivated by the need to redirect these men elsewhere.
+
 ### Internal Politics
 
 While anthropology has focused on the internal political dimensions of war, little attention has been paid to its economic impacts. In non-state societies, leaders can manipulate deliberations, but are often bound by consensus. The influence of leaders is tied to the social organization and economic circumstances that create groups to be led. The absence of authoritative third parties can escalate localized conflicts into war. In relatively egalitarian societies, most men make their own decisions about participating in an attack, while women have varying but lesser roles in decision-making. However, war is primarily seen as men's work. Anthropologists have noted that the development of more expansive and cohesive polities cuts down on localized fighting.
@@ -174,10 +181,28 @@ While anthropology has focused on the internal political dimensions of war, litt
 
 In the context of war, leadership plays an important role, as leaders are given more authority and responsibility to make decisions. Even in relatively egalitarian societies, more aggressive or recognized war chiefs may be handed over considerable authority (Kracke 1978.76-79, Moore 1990.323-24). During times of war, leaders must carefully balance internal factional alignments and oppositions with external alliances and conflicts (Ferguson 1995b.295-305), and may act despotically in situations of endemic conflict (Feil 1987.103-11). While leaders take special risks in war, they also receive special benefits, such as wealth, status, and influence, which may lead to the emergence of military entrepreneurs (Brown 1978.197). Successful leaders often use their influence to promote self-beneficial courses of action (Sillitoe 1978, 253-54).
 
+- 1. In the context of war, leadership plays an important role
+- 2. Leaders are given more authority and responsibility to make decisions
+- 3. Even in relatively egalitarian societies, more aggressive or recognized war chiefs may be handed over considerable authority
+- 4. During times of war, leaders must carefully balance internal factional alignments and oppositions with external alliances and conflicts
+- 5. Leaders may act despotically in situations of endemic conflict
+- 6. Successful leaders receive special benefits, such as wealth, status, and influence
+- 7. This may lead to the emergence of military entrepreneurs
+- 8. Successful leaders often use their influence to promote self-beneficial courses of action
+
 However, the influence of simple war leaders typically recedes with the restoration of peace, and self-aggrandizing men may stir up trouble to generate continuing support and use periods of war to modify political structures to their own lasting benefit (Kracke 1978.77-80). War can act as an evolutionary ratchet that promotes incremental elaboration of centralization and hierarchy (Ferguson 1994.102), leading to violent conflict over succession to high positions (Crumley 1981.255). With the development of tribute, leaders may require successful wars just to remain in power (Wolf 1987.141-44).
 
-Decision-making in war varies greatly, with early Maya retaining vestiges of the vertical integration of pre-state days, while Homeric groups may have been chiefdoms where the mixture of hierarchy and consensus in decision making was normal (Webster 348, Raaflaub 129, 139). In classical times, democracy emerged, and decisions on war were made by those who would fight, although this did not extend to slaves (Cohen 1984.344-51). The conquering Muslim armies began as relatively egalitarian tribal forces, but within half a century, rule by a consensus of chiefs gave way to centralized coercive rule over a demilitarized population (Crone 313-314, 316-317). The command of Macedonian kings was tempered by close noble "companions" before Philip II, but decision-making power concentrated in one charismatic leader in Alexander's rolling conquests (Hamilton 167, 173, Briant 105). Major imperial expansions are typically associated with powerful individual rulers (Sinopoli 1994.163), but the "routine" autocrats of Imperial Rome generally eschewed grand adventures for more conservative military policies (Campbell 218, 229-230).
+- 1. War leaders' authority increases during times of war.
+- 2. Leaders must balance internal factions and external alliances during wartime.
+- 3. Leaders may act despotically in situations of endemic conflict.
+- 4. Successful leaders receive special benefits, such as wealth, status, and influence.
+- 5. Military entrepreneurs may emerge from successful leadership.
+- 6. Self-aggrandizing men may use periods of war to modify political structures to their own lasting benefit.
+- 7. War can promote incremental elaboration of centralization and hierarchy.
+- 8. Violent conflict over succession to high positions can occur.
+- 9. Tribute may require leaders to wage successful wars to remain in power.
 
+Decision-making in war varies greatly, with early Maya retaining vestiges of the vertical integration of pre-state days, while Homeric groups may have been chiefdoms where the mixture of hierarchy and consensus in decision making was normal (Webster 348, Raaflaub 129, 139). In classical times, democracy emerged, and decisions on war were made by those who would fight, although this did not extend to slaves (Cohen 1984.344-51). The conquering Muslim armies began as relatively egalitarian tribal forces, but within half a century, rule by a consensus of chiefs gave way to centralized coercive rule over a demilitarized population (Crone 313-314, 316-317). The command of Macedonian kings was tempered by close noble "companions" before Philip II, but decision-making power concentrated in one charismatic leader in Alexander's rolling conquests (Hamilton 167, 173, Briant 105). Major imperial expansions are typically associated with powerful individual rulers (Sinopoli 1994.163), but the "routine" autocrats of Imperial Rome generally eschewed grand adventures for more conservative military policies (Campbell 218, 229-230).
 
 Military conflicts and conquests have played a significant role in shaping the internal politics and social hierarchy of various societies throughout history. In ancient Egypt, military victories were instrumental in advancing the position and status of military leaders, both as individuals and as a class (Gnirs 79, 85-86, 90-91). Similarly, ambitious men in Achaemenid Persia and Rome sought to elevate their political standing through military conquests (Briant 115-116; Rosenstein 200, 205, 210). Maya wars were often driven by the competition among different contenders for high positions that granted control over land and labor (Webster 350-352).
 
@@ -187,6 +212,13 @@ The use of military conflicts to establish and maintain political power was not 
 
 However, military conflicts were not always detrimental to a society's internal politics. In archaic Greece, citizen participation in military affairs was instrumental in institutionalizing egalitarian structures (Raaflaub 140). In summary, external military affairs have had a significant impact on the internal politics and social hierarchies of various societies throughout history.
 
+- 1. Military victories were instrumental in advancing the position and status of military leaders, both as individuals and as a class in ancient Egypt and Achaemenid Persia and Rome.
+- 2. Military conquests were sought by ambitious men to elevate their political standing.
+- 3. Maya wars were driven by competition among different contenders for high positions that granted control over land and labor.
+- 4. External military defeats had adverse effects on the internal political stability of a society, as seen in the Aztec court and Byzantium.
+- 5. Military conflicts were used to establish and maintain political power, as seen in Lord Shang's empire and Ramesside Egypt.
+- 6. The Athenian leaders transformed the Delian League from a voluntary confederacy into a centrally-controlled empire to enhance political stability.
+- 7. Citizen participation in military affairs was instrumental in institutionalizing egalitarian structures in archaic Greece.
 
 The relationship between internal and external politics in war is complex, as various nested arenas of political organization, from local communities to larger political universes, each have their own relationships and rules. Political interests in any given situation reflect this vertical integration, as well as the more obvious horizontal, interpolity relations. Conflict can result in the fusion or fissure of polities along a variety of social organizational lines, making internal become external or vice versa. Sovereignty, a major element in political ideologies, particularly of states, may be qualified, contingent, and contested, within networks of political relationships.
 
