@@ -64,6 +64,21 @@ In certain historical contexts, scarcity of resources was not limited to land or
 
 The capture of large numbers of slaves was common in ancient and medieval societies around the eastern Mediterranean, where Sparta, for example, rose to prominence on the backs of slaves. The reign of the Abbasids also depended on a constant supply of enslaved tribesmen-warriors from their periphery. In Japan, the scarcity of labor due to epidemics and other disasters led to a series of population crashes from the eighth to the eleventh century, resulting in extreme violence used to make peasants work the land. Old Kingdom Egypt and other ancient societies also relocated defeated populations where they would be more useful. Furthermore, skilled craftsmen of defeated cities were often counted as booty by Hittites.
 
+Checklist of comparative points:
+
+- 1. Scarcity of resources extended to people themselves in certain historical contexts.
+- 2. Indigenous peoples were captured for forced labor, marriage, or to replace lost individuals in North America.
+- 3. Colonial Ibero-America relied heavily on forcibly appropriated indigenous labor.
+- 4. The Atlantic slave trade represents a stark example of the exploitation of enslaved Africans.
+- 5. The Sulu Sultanate of the Philippines in the nineteenth century also relied on slave labor.
+- 6. The capture of large numbers of slaves was common in ancient and medieval societies around the eastern Mediterranean.
+- 7. Sparta rose to prominence on the backs of slaves in ancient Greece.
+- 8. The reign of the Abbasids depended on a constant supply of enslaved tribesmen-warriors from their periphery.
+- 9. Japan experienced scarcity of labor due to epidemics and other disasters, leading to a series of population crashes from the eighth to the eleventh century.
+- 10 Extreme violence was used in Japan to make peasants work the land during population crashes.
+- 11. Old Kingdom Egypt and other ancient societies relocated defeated populations where they would be more useful.
+- 12. Skilled craftsmen of defeated cities were often counted as booty by Hittites in ancient societies.
+
 ### Populations 
 
 Population numbers determined the maximum size of armed forces in these societies. While non-state groups could produce forces numbering only in the dozens, larger confederacies could field armies of a thousand or more. Increasing scale of polities corresponded with more sophisticated military practices, as evidenced by cross-cultural statistics. Ancient and medieval societies fielded armies starting at several thousand and reaching hundreds of thousands, allowing for more complex military tactics. Imperial centers, such as the Aztecs and the Athenian Delian League, were able to create professional armies with a variety of fighters well beyond what individual city-states could muster. The Carolingian empire expanded through its ability to mobilize overwhelming numbers, and the expanded field armies of ninth-century conquests were similarly large in scale.
@@ -106,10 +121,27 @@ The role of local social organization in state military mobilizations has been a
 
 Although social organization plays a role in military formations, stratification remains overwhelmingly important. Soldiers can be divided into two tiers, elite and mass, with the elite soldiers being supported by the mass soldiers. This is evident in the splendid Maya warrior depicted in art, who may have done most of the fighting, but was likely supported by his peasants. Similarly, Shang kings had a few hundred elite, specially equipped zhong troops, and maybe three thousand ren from the general population. Japan and Macedonia before Philip both had elite mounted troops and a mass army that would flee at first trouble. Archaic Greeks also had a mounted elite and infantry, but this infantry would fight. The balance between archaic "knights" and emergent hoplites is a crucial and controversial issue in the development of Greek democracy.
 
+Checklist of comparative points:
+
+- 1. The role of local social organization in state military mobilizations has been a consistent theme throughout history.
+- 2. Lineage organization was the military order in incipient states, and it remained evident in Maya and Shang armies.
+- 3. By the Springs and Autumns period in China, the draft had been bureaucratized down to five-family units, with local men kept together as soldiers.
+- 4. The Greek hoplites and geographically based Aztec units likely brought along a lot of back-home social relations, including kinship.
+- 5. The Roman Republican army brought together soldiers from all over but gave them a new and enduring social structure in army squadrons.
+- 6. The mobilization of local forces by Rome's western successor states reflected the complex social-institutional landscape of medieval society.
+- 7. Stratification remains overwhelmingly important in military formations.
+- 8. Soldiers can be divided into two tiers, elite and mass, with the elite soldiers being supported by the mass soldiers.
+- 9. The splendid Maya warrior depicted in art was likely supported by his peasants.
+- 10. Shang kings had a few hundred elite, specially equipped zhong troops, and maybe three thousand ren from the general population.
+- 11. Japan and Macedonia before Philip both had elite mounted troops and a mass army that would flee at first trouble.
+- 12. Archaic Greeks also had a mounted elite and infantry, but this infantry would fight.
+- 13. The balance between archaic "knights" and emergent hoplites is a crucial and controversial issue in the development of Greek democracy.
+
 Both Macedonians and the Roman Republican army combined a mounted elite and farmer hoplites, with poorer citizens or landless mercenaries as light skirmishers. As the Western Roman Empire declined, a distinction between elite and mass troops became fundamental once again. In ascendant Byzantium, the same distinction is evident, although within a more complex diversity of soldiers. While there is little mention of a revolt of the militarized masses against the elite, the integration of both strata in armies, with the clear superiority of elite forces, may have kept the masses in line.
 
-
  Military service hindered revolution in another way. A significant commonality observed in various historical cases was that war presented an opportunity for men, from lower social classes, to achieve social mobility. The successful and surviving military man could enjoy a permanent, often inheritable, improvement in social and material status. This advantage of upward mobility provided a great incentive for fighters from lower strata and increased the stability of the existing stratification system. The expansion of military forces and campaigns necessitated the development of a broad literate bureaucracy in several ancient societies, including New Kingdom Egypt, Han China, and Carolingian Western Europe.
+ 
+ 
 
 Armies are formal institutions that stand in defined relationships to institutions of civil administration and organized religion. The variable interrelationships of these three institutional systems have been crucial determinants of social formations since the first civilizations. The historical cases demonstrate both the variability and social importance of this triadic balance. For example, in Chinese history, the demands of armies fostered growth of governmental institutions that later became "civilized," with the military given a subordinate social position. In Japan, a military and civil nobility were differentiated, with the former prevented from occupying the highest decision-making posts. The Abbasids were military rulers of the state, but they left much of civil society to somewhat antimilitary clerics. In Sparta and Athens, the military and civilian rule were closely linked because soldier-citizens dominated government. In post-Roman western Europe, religious and civil institutions were distinct but coordinated, and both doubled as military administrations. The Byzantine and Egyptian cases demonstrate complexities in changing relations between military and political institutions that are beyond the scope of this summary. Future studies of war and society may identify regularities in this triadic relationship, which is a vital aspect of the social organization of states.
 
