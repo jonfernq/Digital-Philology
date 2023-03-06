@@ -44,6 +44,8 @@ Essential theory texts for conceptualizing the historical mode of production of 
 
 - [*War Making and State Making of Organized Crime*](https://edisciplinas.usp.br/pluginfile.php/4239309/mod_resource/content/0/AULA%202%20-%20C%20-%20Tilly%20-%20warmaking%20and%20state%20making.pdf) by Charles Tilly: "considers how the process of state making was intrinsically intertwined with that of making war and the extraction of resources."
 
+- *Identity and Control: How Social Formations Emerge* by Harrison C. White: "order is not planned, for example by a state; it is a consequence of activities which, in White’s case, boils down to identities seeking control," by a founder of network and [relational sociology](https://en.wikipedia.org/wiki/Relational_sociology) "the doctrine that transactions, interactions, social ties and conversations constitute the central stuff of social life."
+
 ### Historical Timelines
 
 - [Rajadhirat Periodization Tree](https://github.com/jonfernq/Digital-Philology/tree/main/HistoricalTimelines): A historical timeline can be stored in a tree-like database.
