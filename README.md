@@ -38,6 +38,10 @@ Essential theory texts for conceptualizing the historical mode of production of 
 
 - *The Grand Strategy of the Roman Empire from the First Century AD to the Third* (1976) by [Edward Luttwak](https://en.wikipedia.org/wiki/Edward_Luttwak). 
 
+- Below is an intriguing diagram in a [paper summarizing many theories of geopolitics](https://www.suz.uzh.ch/dam/jcr:00000000-510b-31c0-0000-00004aa80fc4/12.07-collins-95.pdf) by sociologist Randall Collins. As states expand they acquire more manpower from conquered territories to aid in the pursuit of further conquest, however as territory expands with conquests, the logistical load and problem of supplying an army in the field becomes increasingly difficult providing a countervailing force to such expansionary warfare. 
+
+![geopolitical_model](https://user-images.githubusercontent.com/68504324/222994167-8549fc3f-2a0f-4ce2-9b41-2c03502d1cc4.jpg)
+
 ### Historical Timelines
 
 - [Rajadhirat Periodization Tree](https://github.com/jonfernq/Digital-Philology/tree/main/HistoricalTimelines): A historical timeline can be stored in a tree-like database.
