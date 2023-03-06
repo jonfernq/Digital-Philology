@@ -42,6 +42,8 @@ Essential theory texts for conceptualizing the historical mode of production of 
 
 ![geopolitical_model](https://user-images.githubusercontent.com/68504324/222994167-8549fc3f-2a0f-4ce2-9b41-2c03502d1cc4.jpg)
 
+- [*War Making and State Making of Organized Crime*](https://edisciplinas.usp.br/pluginfile.php/4239309/mod_resource/content/0/AULA%202%20-%20C%20-%20Tilly%20-%20warmaking%20and%20state%20making.pdf) by Charles Tilly: "considers how the process of state making was intrinsically intertwined with that of making war and the extraction of resources."
+
 ### Historical Timelines
 
 - [Rajadhirat Periodization Tree](https://github.com/jonfernq/Digital-Philology/tree/main/HistoricalTimelines): A historical timeline can be stored in a tree-like database.
